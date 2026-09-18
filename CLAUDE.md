@@ -2,6 +2,11 @@
 
 Notas de arranque de este proyecto (17 de septiembre de 2026), para no perder contexto entre sesiones.
 
+**Repositorio:** [github.com/agenciaaimpacto-cyber/mareacreativa](https://github.com/agenciaaimpacto-cyber/mareacreativa) (público, creado 2026-09-18).
+**Sitio en vivo:** [marea-creativa.netlify.app](https://marea-creativa.netlify.app) (Netlify, deploy automático desde `main`, publicado 2026-09-18).
+
+**Pendiente antes de que el sitio sea visible al público:** quedó con "Netlify visitor access" activado (redirige a un login de Netlify en vez de mostrar el sitio) — Danny tiene que desactivarlo en Site configuration → Sharing/Access control de este sitio específico en Netlify. Sin esto, nadie puede ver el sitio salvo quien tenga acceso a la cuenta Netlify.
+
 ## Qué es Marea Creativa
 Agencia de publicidad para pequeños negocios y emprendedores, con base en **Panguipulli** — trabajan con negocios en todo Chile. Marea Creativa gestiona campañas para negocios reales: profesionales independientes, técnicos, agentes de seguros, comercios, servicios para el hogar y emprendedores que viven de lo que hacen.
 
