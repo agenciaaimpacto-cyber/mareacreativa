@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE PASA ESTO...", "text": "Revisas la agenda de manana y sientes ese apreton en el estomago"},
+    {"type": "text", "lines": ["Un dia bueno, y al otro", "**no hay nada agendado.**"], "sub": "Y no sabes por que paso, ni si se va a repetir la proxima semana."},
+    {"type": "text", "lines": ["No es que no sepas", "**hacer tu pega.**"], "sub": "Es que la gente que te necesita, hoy, no te esta encontrando."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Miras el perfil de la competencia y **se ve mas movida** que el tuyo, sin saber si de verdad le va mejor", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si esto te paso hoy, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

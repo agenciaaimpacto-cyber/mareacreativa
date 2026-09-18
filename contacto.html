@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contacto — Marea Creativa</title>
+<meta name="description" content="Conversemos sobre publicidad para tu negocio. Escríbenos por WhatsApp.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0B1F3A; --turquoise: #1C8AA8; --turquoise-light: #EAF6FA;
+    --cyan: #4FC3E0; --paper: #FFFFFF; --ink: #14213D; --ink-dim: #5C6B85; --line: #E1E8F0;
+    --whatsapp: #25D366; --whatsapp-deep: #1DA851;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--paper); color: var(--ink); font-family: 'Inter', sans-serif; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+  .display { font-family: 'Sora', sans-serif; }
+  a { color: inherit; } img { max-width: 100%; display: block; }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 0 24px; }
+  header.site { background: var(--navy); color: #fff; position: sticky; top: 0; z-index: 50; border-bottom: 1px solid rgba(255,255,255,0.08); }
+  .nav-row { display: flex; align-items: center; justify-content: space-between; padding: 14px 24px; max-width: 1000px; margin: 0 auto; gap: 16px; }
+  .brand { display: flex; align-items: center; gap: 10px; font-family: 'Sora', sans-serif; font-weight: 700; font-size: 18px; white-space: nowrap; }
+  .brand img { height: 32px; width: auto; }
+  .brand span { color: var(--cyan); }
+  nav.links { display: none; gap: 22px; font-size: 14px; font-weight: 500; }
+  nav.links a { text-decoration: none; color: rgba(255,255,255,0.85); }
+  nav.links a:hover { color: var(--cyan); }
+  @media (min-width: 780px) { nav.links { display: flex; } }
+  .btn-nav-wa { background: var(--whatsapp); color: #fff; font-size: 13px; font-weight: 600; padding: 9px 16px; border-radius: 999px; text-decoration: none; white-space: nowrap; display: flex; align-items: center; gap: 6px; }
+  .btn-nav-wa:hover { background: var(--whatsapp-deep); }
+  .center-page { min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 60px 24px; }
+  .eyebrow { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--turquoise); margin-bottom: 14px; display: block; }
+  h1 { font-family: 'Sora', sans-serif; font-weight: 800; font-size: 32px; line-height: 1.2; color: var(--navy); margin-bottom: 14px; max-width: 560px; }
+  p.lead { font-size: 16px; color: var(--ink-dim); max-width: 480px; margin-bottom: 30px; }
+  .btn-primary { display: inline-flex; align-items: center; gap: 10px; background: var(--whatsapp); color: #fff; font-weight: 600; font-size: 17px; padding: 16px 30px; border-radius: 999px; text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.28); }
+  .btn-primary:hover { background: var(--whatsapp-deep); }
+  .contact-alt { margin-top: 26px; font-size: 14px; color: var(--ink-dim); }
+  .contact-alt a { color: var(--turquoise); font-weight: 600; text-decoration: none; }
+  footer { background: var(--navy); color: rgba(255,255,255,0.7); padding: 40px 24px 40px; }
+  footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 24px; font-size: 14px; }
+  footer a { text-decoration: none; color: rgba(255,255,255,0.85); }
+  footer a:hover { color: var(--cyan); }
+  footer .brand { color: #fff; margin-bottom: 8px; }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="nav-row">
+    <div class="brand"><img src="assets/logo.png" alt="Marea Creativa"> Marea <span>Creativa</span></div>
+    <nav class="links">
+      <a href="index.html">Inicio</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="casos.html">Casos</a>
+      <a href="sobre-nosotros.html">Sobre nosotros</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+    <a class="btn-nav-wa" href="https://wa.me/PENDIENTE?text=Hola%2C%20quiero%20conversar%20sobre%20publicidad%20para%20mi%20negocio" target="_blank" rel="noopener">WhatsApp</a>
+  </div>
+</header>
+
+<main>
+  <div class="center-page">
+    <span class="eyebrow">Contacto</span>
+    <h1>Conversemos sobre tu negocio</h1>
+    <p class="lead">Cuéntanos qué vendes, cuántos clientes necesitas y cuánto puedes invertir. No hace falta un formulario — escríbenos directo.</p>
+    <a class="btn-primary" href="https://wa.me/PENDIENTE?text=Hola%2C%20quiero%20conversar%20sobre%20publicidad%20para%20mi%20negocio" target="_blank" rel="noopener">
+      Escribir por WhatsApp
+    </a>
+    <div class="contact-alt">
+      También por Instagram: <a href="https://instagram.com/PENDIENTE" target="_blank" rel="noopener">@PENDIENTE</a>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="brand display" style="font-size:18px;">Marea Creativa</div>
+      <p>Marketing que mueve negocios</p>
+    </div>
+    <div>
+      <div>Panguipulli — trabajamos con negocios en todo Chile</div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "\"La publicidad es para empresas grandes con harta plata\""},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi", "**si solo has visto publicidad**"], "sub": "de marcas grandes, con presupuestos que no tienen nada que ver con tu realidad."},
+    {"type": "text", "lines": ["Pero el punto de partida", "**nunca es un minimo de plata.**"], "sub": "Es cuantos clientes necesitas para alcanzar tu propia meta."},
+    {"type": "proof", "tag": "EJEMPLO REAL", "text": "Para una podologa, crecer puede significar **llenar dos dias de agenda** a la semana. No cientos de pacientes.", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos que vendes y **te decimos si tiene sentido.**", "button": "Escribenos por WhatsApp ->", "sub": "Sin compromiso, sin letra chica."}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "formato": "camara",
+  "pilar": "espejo",
+  "titulo": "La agenda vacia de manana",
+  "hook": "Si ahora mismo revisaste la agenda de manana y sentiste ese apreton en el estomago, este es para ti.",
+  "desarrollo": [
+    "Sabes exactamente lo que se siente: un dia bueno, y al otro dia nada agendado.",
+    "Y lo peor no es el dia flojo. Es no saber si se va a repetir la proxima semana.",
+    "No es que no sepas hacer tu pega. Es que la gente que te necesita, hoy, no te esta encontrando."
+  ],
+  "cta": "Si esto te paso hoy, escribenos. Partimos por entender tu negocio, no por venderte nada.",
+  "notas_produccion": "Grabar de pie, luz natural de dia, camara a la altura de los ojos. Decir el hook con la mirada fija al lente, sin sonreir todavia -- el tono serio en el hook es lo que hace que la persona se detenga."
+}

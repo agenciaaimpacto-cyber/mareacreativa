@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de crear cualquier campana, te hacemos **4 preguntas**"},
+    {"type": "stat", "number": "1", "text": "Que **vendes**, exactamente — no como lo dice tu rubro, como lo dirias tu"},
+    {"type": "stat", "number": "2", "text": "Cuantos **clientes necesitas**, no cuantos te gustaria tener"},
+    {"type": "stat", "number": "3", "text": "Cuanto puedes **invertir**, siendo realista con tu negocio hoy"},
+    {"type": "cta", "text": "La 4ta pregunta te la hacemos **por WhatsApp.**", "button": "Escribenos ->", "sub": "Que tendria que pasar para que esto valga la pena para ti."}
+  ]
+}

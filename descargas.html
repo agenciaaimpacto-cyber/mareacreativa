@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Descargas — Marea Creativa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0B1F3A; --turquoise: #1C8AA8; --turquoise-light: #EAF6FA;
+    --cyan: #4FC3E0; --paper: #FAFAFC; --ink: #14213D; --ink-dim: #9AAAC4; --line: rgba(255,255,255,0.12);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--navy); color: var(--paper); font-family: 'Inter', sans-serif; line-height: 1.5; }
+  .display { font-family: 'Sora', sans-serif; }
+  header { border-bottom: 1px solid var(--line); padding: 28px 24px 20px; max-width: 980px; margin: 0 auto; }
+  .brand { font-family: 'Sora', sans-serif; font-weight: 800; font-size: 24px; }
+  .brand span { color: var(--cyan); }
+  .sub { margin-top: 8px; font-size: 13px; color: var(--ink-dim); font-family: 'IBM Plex Mono', monospace; }
+  main { max-width: 980px; margin: 0 auto; padding: 32px 24px 60px; }
+
+  .tabs { display: flex; gap: 8px; margin-bottom: 28px; }
+  .tab-btn {
+    font-family: 'IBM Plex Mono', monospace; font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
+    background: none; border: 1px solid var(--line); color: var(--ink-dim); padding: 8px 16px; border-radius: 999px; cursor: pointer;
+  }
+  .tab-btn.active { border-color: var(--cyan); color: var(--cyan); }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  .day-group { margin-bottom: 40px; }
+  .day-label {
+    font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--cyan);
+    text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 16px; padding-bottom: 8px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .carousel-set, .guion-set { border-left: 3px solid rgba(255,255,255,0.15); padding-left: 16px; margin-bottom: 24px; transition: border-color 0.2s, opacity 0.2s; }
+  .carousel-set.done, .guion-set.done { border-left-color: var(--turquoise); opacity: 0.55; }
+  .carousel-set.pending, .guion-set.pending { border-left-color: var(--cyan); }
+
+  .check-row { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
+  .check-row input[type="checkbox"] { width: 16px; height: 16px; accent-color: var(--turquoise); cursor: pointer; }
+  .check-row label { font-family: 'IBM Plex Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.4px; color: var(--ink-dim); cursor: pointer; }
+  .badge-pendiente {
+    font-family: 'IBM Plex Mono', monospace; font-size: 10px; text-transform: uppercase; color: var(--cyan);
+    border: 1px solid var(--cyan); border-radius: 3px; padding: 1px 6px; margin-left: 8px;
+  }
+  .badge-formato {
+    font-family: 'IBM Plex Mono', monospace; font-size: 10px; text-transform: uppercase; color: var(--ink-dim);
+    border: 1px solid var(--line); border-radius: 3px; padding: 1px 6px; margin-left: 8px;
+  }
+
+  .item-title { font-family: 'Sora', sans-serif; font-weight: 700; font-size: 16px; margin-bottom: 10px; color: var(--paper); }
+  .thumbs { display: flex; gap: 10px; flex-wrap: wrap; }
+  .thumb { position: relative; }
+  .thumb a.dl { display: block; position: relative; border-radius: 4px; overflow: hidden; border: 1px solid var(--line); cursor: pointer; }
+  .thumb a.dl img { width: 110px; height: 137px; object-fit: cover; display: block; }
+  .thumb a.dl .dl-overlay {
+    position: absolute; inset: 0; background: rgba(11,31,58,0.7); color: var(--paper);
+    display: flex; align-items: center; justify-content: center; font-size: 26px; opacity: 0; transition: opacity 0.15s;
+  }
+  .thumb a.dl:hover .dl-overlay, .thumb a.dl:active .dl-overlay { opacity: 1; }
+  .thumb .slide-num { display: block; margin-top: 4px; text-align: center; font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--ink-dim); }
+  .dl-all, .dl-txt {
+    display: inline-block; margin-top: 12px; margin-right: 10px;
+    font-family: 'IBM Plex Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.4px;
+    color: var(--cyan); text-decoration: none; border: 1px solid var(--cyan); padding: 6px 12px; border-radius: 4px; cursor: pointer; background: none;
+  }
+  .dl-all:hover, .dl-txt:hover { background: rgba(79,195,224,0.1); }
+
+  .guion-body {
+    background: rgba(255,255,255,0.04); border: 1px solid var(--line); border-radius: 8px;
+    padding: 16px 18px; font-family: 'IBM Plex Mono', monospace; font-size: 12.5px; color: rgba(255,255,255,0.85);
+    white-space: pre-wrap; margin-top: 6px; max-height: 260px; overflow-y: auto;
+  }
+
+  .status-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    background: rgba(79,195,224,0.08); border: 1px solid rgba(79,195,224,0.25);
+    border-radius: 6px; padding: 14px 18px; margin-bottom: 32px; font-family: 'IBM Plex Mono', monospace; font-size: 12.5px;
+  }
+  #pending-count { color: var(--cyan); font-weight: 600; }
+  .status-bar.all-done { border-color: rgba(28,138,168,0.4); background: rgba(28,138,168,0.15); }
+  .status-bar.all-done #pending-count { color: var(--turquoise-light); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">Marea <span>Creativa</span></div>
+  <div class="sub">Carruseles y guiones diarios — descarga y publica</div>
+</header>
+
+<main>
+
+  <div class="status-bar" id="status-bar">
+    <span><span id="pending-count">—</span> pendientes de publicar/grabar</span>
+    <span style="color:var(--ink-dim); font-size:11px;">el check se guarda en este navegador</span>
+  </div>
+
+  <div class="tabs">
+    <button type="button" class="tab-btn active" data-tab="carruseles">Carruseles</button>
+    <button type="button" class="tab-btn" data-tab="guiones">Guiones de video</button>
+  </div>
+
+  <div class="tab-panel active" id="panel-carruseles">
+    <div class="day-group">
+      <div class="day-label">18 septiembre 2026</div>
+
+      <div class="carousel-set" data-item-id="carrusel-2026-09-18-1">
+        <div class="check-row">
+          <input type="checkbox" id="chk-carrusel-2026-09-18-1">
+          <label for="chk-carrusel-2026-09-18-1">Marcar como publicado</label>
+          <span class="badge-pendiente">Pendiente</span>
+        </div>
+        <div class="item-title">Carrusel 1 (espejo) — Revisas la agenda de mañana y sientes ese apretón en el estómago</div>
+        <div class="thumbs">
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-1-espejo/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-09-18/carrusel-1-espejo/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-1-espejo/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-09-18/carrusel-1-espejo/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-1-espejo/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-09-18/carrusel-1-espejo/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-1-espejo/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-09-18/carrusel-1-espejo/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-1-espejo/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-09-18/carrusel-1-espejo/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+        </div>
+        <button type="button" class="dl-all" data-download-all="carrusel-2026-09-18-1">Descargar carrusel completo (5) →</button>
+      </div>
+
+      <div class="carousel-set" data-item-id="carrusel-2026-09-18-2">
+        <div class="check-row">
+          <input type="checkbox" id="chk-carrusel-2026-09-18-2">
+          <label for="chk-carrusel-2026-09-18-2">Marcar como publicado</label>
+          <span class="badge-pendiente">Pendiente</span>
+        </div>
+        <div class="item-title">Carrusel 2 (mitos) — "La publicidad es para empresas grandes con harta plata"</div>
+        <div class="thumbs">
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-2-mitos/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-09-18/carrusel-2-mitos/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-2-mitos/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-09-18/carrusel-2-mitos/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-2-mitos/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-09-18/carrusel-2-mitos/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-2-mitos/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-09-18/carrusel-2-mitos/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-2-mitos/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-09-18/carrusel-2-mitos/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+        </div>
+        <button type="button" class="dl-all" data-download-all="carrusel-2026-09-18-2">Descargar carrusel completo (5) →</button>
+      </div>
+
+      <div class="carousel-set" data-item-id="carrusel-2026-09-18-3">
+        <div class="check-row">
+          <input type="checkbox" id="chk-carrusel-2026-09-18-3">
+          <label for="chk-carrusel-2026-09-18-3">Marcar como publicado</label>
+          <span class="badge-pendiente">Pendiente</span>
+        </div>
+        <div class="item-title">Carrusel 3 (detrás de cámara) — Las 4 preguntas antes de cualquier campaña</div>
+        <div class="thumbs">
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-3-detras-camara/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-09-18/carrusel-3-detras-camara/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-3-detras-camara/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-09-18/carrusel-3-detras-camara/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-3-detras-camara/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-09-18/carrusel-3-detras-camara/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-3-detras-camara/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-09-18/carrusel-3-detras-camara/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+          <div class="thumb"><a class="dl" href="carruseles/2026-09-18/carrusel-3-detras-camara/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-09-18/carrusel-3-detras-camara/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+        </div>
+        <button type="button" class="dl-all" data-download-all="carrusel-2026-09-18-3">Descargar carrusel completo (5) →</button>
+      </div>
+    </div>
+
+    <p style="margin-top:20px; font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-dim);">
+      — cada día se suman carruseles nuevos aquí, ordenados por fecha con el más reciente arriba, nada se elimina —
+    </p>
+  </div>
+
+  <div class="tab-panel" id="panel-guiones">
+    <div class="day-group">
+      <div class="day-label">18 septiembre 2026</div>
+
+      <div class="guion-set" data-item-id="guion-2026-09-18-camara-agenda-vacia">
+        <div class="check-row">
+          <input type="checkbox" id="chk-guion-2026-09-18-camara-agenda-vacia">
+          <label for="chk-guion-2026-09-18-camara-agenda-vacia">Marcar como grabado</label>
+          <span class="badge-formato">Hablado a cámara · 30-45s</span>
+          <span class="badge-pendiente">Pendiente</span>
+        </div>
+        <div class="item-title">La agenda vacía de mañana</div>
+        <div class="guion-body">GUION — La agenda vacia de manana
+Formato: camara | Pilar: espejo | Duracion objetivo: 30-45 segundos
+============================================================
+
+[HOOK — primeros 3 segundos]
+Si ahora mismo revisaste la agenda de manana y sentiste ese apreton en el estomago, este es para ti.
+
+[DESARROLLO]
+1. Sabes exactamente lo que se siente: un dia bueno, y al otro dia nada agendado.
+2. Y lo peor no es el dia flojo. Es no saber si se va a repetir la proxima semana.
+3. No es que no sepas hacer tu pega. Es que la gente que te necesita, hoy, no te esta encontrando.
+
+[CIERRE / CTA]
+Si esto te paso hoy, escribenos. Partimos por entender tu negocio, no por venderte nada.
+
+------------------------------------------------------------
+NOTA DE FORMATO:
+Hablado a camara. Mirar directo al lente, tono conversacional (como si le hablaras a una persona, no a una audiencia). Hook en los primeros 3 segundos: decirlo de pie o con un gesto que corte el scroll, no sentado y estatico.
+
+NOTAS DE PRODUCCION:
+Grabar de pie, luz natural de dia, camara a la altura de los ojos. Decir el hook con la mirada fija al lente, sin sonreir todavia -- el tono serio en el hook es lo que hace que la persona se detenga.</div>
+        <a class="dl-txt" href="guiones/2026-09-18/la-agenda-vacia-de-manana.txt" download>Descargar .txt →</a>
+      </div>
+
+      <div class="guion-set" data-item-id="guion-2026-09-18-voz-4-preguntas">
+        <div class="check-row">
+          <input type="checkbox" id="chk-guion-2026-09-18-voz-4-preguntas">
+          <label for="chk-guion-2026-09-18-voz-4-preguntas">Marcar como grabado</label>
+          <span class="badge-formato">Voz en off · 45-60s</span>
+          <span class="badge-pendiente">Pendiente</span>
+        </div>
+        <div class="item-title">Las 4 preguntas antes de cualquier campaña</div>
+        <div class="guion-body">GUION — Las 4 preguntas antes de cualquier campana
+Formato: voz_en_off | Pilar: detras_camara | Duracion objetivo: 45-60 segundos
+============================================================
+
+[HOOK — primeros 3 segundos]
+Antes de crear una sola campana, hay 4 preguntas que respondemos siempre. Ninguna es sobre Facebook ni sobre Instagram.
+
+[DESARROLLO]
+1. Uno: que vendes -- exactamente, no como lo dice tu rubro, como lo dirias tu.
+2. Dos: cuantos clientes necesitas -- no cuantos te gustaria tener, los que necesitas de verdad.
+3. Tres: cuanto puedes invertir -- siendo realista con tu negocio hoy, no con lo ideal.
+4. Y la cuarta: que tendria que pasar para que esto valga la pena para ti.
+
+[CIERRE / CTA]
+Si nunca te han preguntado esto antes de venderte una campana, prueba con nosotros.
+
+------------------------------------------------------------
+NOTA DE FORMATO:
+Voz en off sobre visuales/texto en pantalla. Cortar de escena/plano cada 2-3 segundos para mantener el ritmo. El hook debe coincidir con el primer corte de imagen, no con un plano largo.
+
+NOTAS DE PRODUCCION:
+Sugerencia de visuales: plano de una libreta/notebook con las 4 preguntas escritas a mano, cortando a cada numero; cerrar con el logo de Marea Creativa. Texto en pantalla con cada pregunta mientras se narra, sincronizado con el corte de plano.</div>
+        <a class="dl-txt" href="guiones/2026-09-18/las-4-preguntas-antes-de-cualquier-campana.txt" download>Descargar .txt →</a>
+      </div>
+    </div>
+
+    <p style="margin-top:20px; font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-dim);">
+      — cada día se suman guiones nuevos aquí, ordenados por fecha con el más reciente arriba, nada se elimina —
+    </p>
+  </div>
+
+</main>
+
+<script>
+(function () {
+  var STORAGE_KEY = 'mareaCreativa.contenido.marcado';
+  var state = {};
+  try { state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (e) { state = {}; }
+
+  function save() { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+
+  function updateStatusBar() {
+    var sets = document.querySelectorAll('.carousel-set, .guion-set');
+    var pending = 0;
+    sets.forEach(function (el) { if (!state[el.dataset.itemId]) pending++; });
+    var bar = document.getElementById('status-bar');
+    document.getElementById('pending-count').textContent = pending;
+    bar.classList.toggle('all-done', pending === 0);
+  }
+
+  function applyState(el) {
+    var id = el.dataset.itemId;
+    var done = !!state[id];
+    var checkbox = el.querySelector('input[type="checkbox"]');
+    var badge = el.querySelector('.badge-pendiente');
+    checkbox.checked = done;
+    el.classList.toggle('done', done);
+    el.classList.toggle('pending', !done);
+    if (badge) badge.style.display = done ? 'none' : 'inline-block';
+  }
+
+  document.querySelectorAll('.carousel-set, .guion-set').forEach(function (el) {
+    var checkbox = el.querySelector('input[type="checkbox"]');
+    applyState(el);
+    checkbox.addEventListener('change', function () {
+      state[el.dataset.itemId] = checkbox.checked;
+      save();
+      applyState(el);
+      updateStatusBar();
+    });
+  });
+
+  document.querySelectorAll('[data-download-all]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var id = btn.dataset.downloadAll;
+      var set = document.querySelector('.carousel-set[data-item-id="' + id + '"]');
+      if (!set) return;
+      var links = set.querySelectorAll('a.dl');
+      links.forEach(function (link, i) {
+        setTimeout(function () {
+          var a = document.createElement('a');
+          a.href = link.href;
+          a.download = '';
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        }, i * 350);
+      });
+    });
+  });
+
+  document.querySelectorAll('.tab-btn').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('.tab-btn').forEach(function (b) { b.classList.remove('active'); });
+      document.querySelectorAll('.tab-panel').forEach(function (p) { p.classList.remove('active'); });
+      btn.classList.add('active');
+      document.getElementById('panel-' + btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  updateStatusBar();
+})();
+</script>
+
+</body>
+</html>
