@@ -30,7 +30,7 @@ A partir de esas respuestas se crean y administran las campañas.
 - **Logo:** ola estilizada en degradé (celeste claro → turquesa → azul marino oscuro) sobre fondo blanco, con "MAREA CREATIVA" en tipografía sans bold (negro/azul marino) y "CREATIVA" en turquesa. Debajo: "Marketing que mueve negocios" y "Estrategia • Anuncios • Resultados" separados por puntos.
 - **Paleta:** azul marino oscuro (texto/fondo principal, tipo #0a1e3d), turquesa/celeste (acento, tipo #1a7a9e — el mismo espíritu que el verde azulado de Seguros pero en clave azul), blanco.
 - **Imaginería de referencia:** foto del lago/volcán de Panguipulli como fondo de banners, combinada con foto de profesional trabajando en laptop y tarjetas de métricas superpuestas (ej. "Conversaciones +62%", "Clientes potenciales +286%") — comunica resultados concretos + arraigo local.
-- **Pendiente:** guardar los archivos reales del logo y banner de referencia en `assets/` dentro de este proyecto — llegaron pegados en el chat, sin ruta de archivo accesible; pedir a Danny que los copie a `/Users/danny/Marea Creativa/assets/`.
+- **Estado: hecho el 18 de septiembre de 2026.** Danny copió los archivos reales a la carpeta; quedaron como `assets/logo.png` y `assets/banner-referencia.png`.
 
 ## Nota de idioma
 Español neutro/chileno estándar (tú), sin acentos ni voseo argentino, consistente con el resto de los proyectos de Danny.
@@ -54,10 +54,22 @@ Tono: conversacional, con oficios reales (podóloga, el que hace portones), nunc
 - **Voz en off:** 45-60 segundos (permite narrar sobre visuales/texto en pantalla sin sentirse largo).
 - Estructura de guión en ambos casos: hook en los primeros 3 segundos → desarrollo del mensaje central → CTA claro al cierre (comentar, guardar, o escribir por DM).
 
+## Sitio + motor de contenido (construido el 18 de septiembre de 2026)
+Estructura del sitio, estática (HTML/CSS, sin build step, mismo esquema que Seguros/Radar Comercial):
+- `index.html`, `servicios.html`, `casos.html`, `sobre-nosotros.html`, `contacto.html` — sitio público.
+- `casos.html`: a propósito muestra un estado vacío honesto ("preferimos no inventar resultados") en vez de casos falsos — Marea Creativa recién está empezando y no hay clientes reales todavía. Se activa cuando exista el primer caso medible.
+- `descargas.html` (no indexada, `noindex,nofollow`, sin link en el menú): página donde Danny descarga carruseles y guiones para publicar/grabar él mismo. Dos pestañas (Carruseles / Guiones), checkboxes "marcar como publicado/grabado" guardados en localStorage, botón de descarga por carrusel completo. Mismo patrón que `carruseles.html` en Seguros.
+- `contenido/banco-contenido.md`: el banco de contenido evergreen (6 pilares: espejo, historias antes/después, mitos, detrás de cámara, aspiracional, resultados — ver sección de Estrategia de contenido arriba) con ángulos de ejemplo y lista de oficios para rotar. **Regla de honestidad explícita ahí:** ningún carrusel/guión puede presentar cifras o testimonios como reales hasta que existan de verdad (pilares 2 y 6 quedan "apagados" hasta el primer cliente real).
+- `carrusel-tools/generate_carousel.py`: adaptado de Seguros/Radar Comercial, mismo formato de `slides.json` (tipos hook/text/stat/proof/cta, marcado `**palabra**` = resaltado), con paleta navy (#0B1F3A fondo) + cyan (#4FC3E0 acento) y marca "MAREA CREATIVA". Se corrigió un bug menor heredado del script original (una coma pegada a texto en negrita quedaba con un espacio de más — ej. "vendes ,").
+- `guion-tools/generate_guion.py`: generador nuevo (no existía en ningún otro proyecto de Danny). Toma un JSON (formato, pilar, hook, desarrollo, cta, notas de producción) y genera un `.txt` con estructura Hook (primeros 3s) → Desarrollo → CTA, más la nota de formato correspondiente. Duración objetivo ya integrada: cámara 30-45s, voz en off 45-60s.
+- `carruseles/2026-09-18/` y `guiones/2026-09-18/`: primer lote de ejemplo (3 carruseles — uno por pilar espejo/mitos/detrás de cámara — y 2 guiones, uno por formato) generado para aprobar el estilo antes de automatizar, mismo paso que se siguió en Seguros/Radar Comercial.
+- Repo git local inicializado con un primer commit (`git init` + commit), pero **todavía no hay repo remoto en GitHub ni sitio en Netlify** — eso requiere que Danny decida/autorice ese paso (crear repo público, instalar la GitHub App con permiso de escritura, conectar Netlify), igual que se hizo para Seguros y Radar Comercial.
+
 ## Pendiente / por definir
-- **Construir el sitio + motor de contenido** (acordado el 17 de septiembre, aún no implementado): un banco de contenido con los pilares de arriba, del cual se generen carruseles diarios (reutilizando `generate_carousel.py` de Radar Comercial/Seguros, con la paleta azul marino/turquesa de Marea Creativa) y guiones de video (hablado a cámara y voz en off) según los parámetros de duración ya definidos. A diferencia de Seguros/Radar Comercial, acá no hay "noticia del día" que investigar — el motor rota ángulos de un banco de contenido evergreen, no despachos diarios verificables.
-- Guardar los archivos reales del logo/banner en `assets/` (ver sección de Identidad visual).
+- **Crear el repo en GitHub + sitio en Netlify** y automatizar la rutina diaria (misma receta que Seguros/Radar Comercial, ver esa sección más abajo) — pendiente de decisión/autorización de Danny.
+- **Contacto real:** el sitio tiene `wa.me/PENDIENTE`, `instagram.com/PENDIENTE` como placeholders — falta el número de WhatsApp y el @ de Instagram reales de Marea Creativa para reemplazarlos antes de publicar.
 - Oferta de servicio concreta: precios, qué incluye la gestión de campañas, proceso de onboarding de un cliente nuevo.
+- Activar los pilares 2 (historias antes/después) y 6 (resultados reales) del banco de contenido cuando exista el primer cliente con resultados medibles.
 
 ## Cómo seguir
 Al abrir una sesión de Claude Code en esta carpeta, este archivo da el contexto — se puede pedir directamente "sigamos con Marea Creativa" y continuar desde acá.
