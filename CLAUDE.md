@@ -72,8 +72,16 @@ Estructura del sitio, estática (HTML/CSS, sin build step, mismo esquema que Seg
 
 **Contacto real (confirmado el 18 de septiembre de 2026):** WhatsApp +56 9 4013 0088, Instagram [@mareacreativamkt](https://instagram.com/mareacreativamkt) — ya reemplazados en las 5 páginas del sitio.
 
+## Rutina automática diaria (montada el 18 de septiembre de 2026)
+**Estado: montada y corriendo.** Rutina en la nube "Marea Creativa — carruseles + guiones diarios" (trigger_id `trig_012xka5X98b9wLNbbnqxzGjn`, ver en [claude.ai/code/routines/trig_012xka5X98b9wLNbbnqxzGjn](https://claude.ai/code/routines/trig_012xka5X98b9wLNbbnqxzGjn)), cron `0 12 * * *` (8:00 AM Chile, sin horario de verano — mismo caveat que Seguros: revisar cuando entre horario de verano en septiembre/octubre).
+
+Cada corrida: lee `contenido/banco-contenido.md`, elige 3 ángulos (pilar + oficio) sin repetir los últimos 5-7 días, genera 3 carruseles y 2 guiones (1 cámara, 1 voz en off), actualiza `descargas.html`, y hace commit+push a `main`. Restringida a los pilares 1/3/4/5 (nunca 2 ni 6, que requieren clientes reales). A diferencia de Seguros, no usa WebSearch — no investiga noticias, rota el banco de contenido evergreen.
+
+**Lección de Seguros aplicada desde el día uno:** la rutina de `dannymeraseguros` sufrió el mismo bug de "HEAD detached" seis corridas seguidas antes de que alguien revisara la causa de fondo. El prompt de esta rutina ya incluye la detección y corrección explícita (`git status` → si dice detached, `git fetch` + `git checkout main && git merge --ff-only`) como el Paso 5, en vez de esperar a que se repita. Si igual llega a pasar acá, es señal de que el problema es de cómo el entorno de la nube inicializa el repo (ver notas extensas en `~/DannyMeraSeguros/CLAUDE.md`), no de que falte la instrucción.
+
+**Pendiente de verificar:** todavía no se ha probado esta rutina con una corrida manual — conviene correrla una vez (acción "run" en claude.ai/code/routines) antes de confiar en que la programada de mañana va a salir bien, mismo criterio que se siguió al montar Seguros y Radar Comercial.
+
 ## Pendiente / por definir
-- **Crear el repo en GitHub + sitio en Netlify** y automatizar la rutina diaria (misma receta que Seguros/Radar Comercial, ver esa sección más abajo) — pendiente de decisión/autorización de Danny.
 - Oferta de servicio concreta: precios, qué incluye la gestión de campañas, proceso de onboarding de un cliente nuevo.
 - Activar los pilares 2 (historias antes/después) y 6 (resultados reales) del banco de contenido cuando exista el primer cliente con resultados medibles.
 
