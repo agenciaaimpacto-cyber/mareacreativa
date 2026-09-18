@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "\"Ya puse plata en Facebook antes y **no funciono**\""},
+    {"type": "text", "lines": ["Si perdiste plata en eso,", "**la frustracion es real.**"], "sub": "Nadie te va a decir que fue tu imaginacion. Duele de verdad."},
+    {"type": "text", "lines": ["Pero apretar el boton", "**\"promocionar publicacion\"**"], "sub": "no es lo mismo que una campana con estrategia, segmentacion y seguimiento."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Una peluqueria puede publicar seguido y no vender nada, **o hacer 3 publicaciones bien segmentadas** y llenar la semana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Antes de gastar de nuevo, **conversemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender que vendes y a quien le hablas."}
+  ]
+}

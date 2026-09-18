@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META REAL", "text": "No necesitas cientos de clientes, **necesitas los suficientes**"},
+    {"type": "text", "lines": ["Si fabricas o instalas", "**portones**"], "sub": "crecer no es salir en todos lados. Es tener cotizaciones suficientes para no quedarte sin pega ningun mes."},
+    {"type": "text", "lines": ["Ese es el punto de partida", "**de cualquier campana.**"], "sub": "No cuanto quieres vender, sino cuanto necesitas para que el mes te calce."},
+    {"type": "proof", "tag": "ASI LO VEMOS", "text": "Cuando sabes cuantos clientes necesitas, **puedes elegir con cuales trabajar** en vez de aceptar cualquier pega por miedo a que no llegue otra", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos tu meta y **vemos si tiene sentido.**", "button": "Escribenos por WhatsApp ->", "sub": "Sin compromiso, sin letra chica."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Este mes empezo bien y de repente, sin razon clara, **se enfrio**"},
+    {"type": "text", "lines": ["No hiciste nada distinto,", "**simplemente dejo de sonar.**"], "sub": "Y ahi entra la duda: es algo que hice, o solo me toco un mes malo?"},
+    {"type": "text", "lines": ["El problema de vivir del", "**puro boca a boca**"], "sub": "es que no puedes predecir nada. Un mes te salva un cliente conocido, el otro no aparece nadie."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Tecnicos, gasfiter, el que arregla notebooks: **el mismo patron**, meses buenos y malos sin ninguna logica clara detras", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si tu mes tambien se enfrio sin aviso, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}
