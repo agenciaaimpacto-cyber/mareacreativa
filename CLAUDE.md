@@ -65,9 +65,10 @@ Estructura del sitio, estática (HTML/CSS, sin build step, mismo esquema que Seg
 - `carruseles/2026-09-18/` y `guiones/2026-09-18/`: primer lote de ejemplo (3 carruseles — uno por pilar espejo/mitos/detrás de cámara — y 2 guiones, uno por formato) generado para aprobar el estilo antes de automatizar, mismo paso que se siguió en Seguros/Radar Comercial.
 - Repo git local inicializado con un primer commit (`git init` + commit), pero **todavía no hay repo remoto en GitHub ni sitio en Netlify** — eso requiere que Danny decida/autorice ese paso (crear repo público, instalar la GitHub App con permiso de escritura, conectar Netlify), igual que se hizo para Seguros y Radar Comercial.
 
+**Contacto real (confirmado el 18 de septiembre de 2026):** WhatsApp +56 9 4013 0088, Instagram [@mareacreativamkt](https://instagram.com/mareacreativamkt) — ya reemplazados en las 5 páginas del sitio.
+
 ## Pendiente / por definir
 - **Crear el repo en GitHub + sitio en Netlify** y automatizar la rutina diaria (misma receta que Seguros/Radar Comercial, ver esa sección más abajo) — pendiente de decisión/autorización de Danny.
-- **Contacto real:** el sitio tiene `wa.me/PENDIENTE`, `instagram.com/PENDIENTE` como placeholders — falta el número de WhatsApp y el @ de Instagram reales de Marea Creativa para reemplazarlos antes de publicar.
 - Oferta de servicio concreta: precios, qué incluye la gestión de campañas, proceso de onboarding de un cliente nuevo.
 - Activar los pilares 2 (historias antes/después) y 6 (resultados reales) del banco de contenido cuando exista el primer cliente con resultados medibles.
 
