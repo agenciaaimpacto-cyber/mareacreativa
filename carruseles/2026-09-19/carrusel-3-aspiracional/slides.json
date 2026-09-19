@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META REAL", "text": "No se trata de vender a **todo el mundo**, se trata de vender **lo suficiente**"},
+    {"type": "text", "lines": ["Si eres agente de seguros", "**independiente**"], "sub": "no necesitas cientos de clientes nuevos. Necesitas los justos para vivir bien de lo tuyo, mes a mes."},
+    {"type": "text", "lines": ["El problema no es la falta", "**de esfuerzo**"], "sub": "es depender de que alguien te recomiende, sin poder predecir cuando va a pasar."},
+    {"type": "proof", "tag": "ASI LO VEMOS", "text": "Cuando sabes cuantos clientes necesitas al mes, **puedes dejar de depender de la suerte** del boca a boca", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos tu meta y **vemos si tiene sentido.**", "button": "Escribenos por WhatsApp ->", "sub": "Sin compromiso, sin letra chica."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "\"Primero necesito arreglar mi imagen, **despues hago publicidad**\""},
+    {"type": "text", "lines": ["Tiene sentido querer", "**verte profesional**"], "sub": "nadie quiere mostrar algo a medio hacer. Ese instinto esta bien."},
+    {"type": "text", "lines": ["Pero muchos negocios parten", "**con lo que ya tienen**"], "sub": "mientras el logo, la web o las fotos se van ordenando en paralelo, no antes de todo lo demas."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Un entrenador personal puede llenar cupos de clases **con el celular y una buena segmentacion**, sin esperar el sitio web perfecto", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si estas esperando que todo este listo para partir, **conversemos primero.**", "button": "Escribenos por WhatsApp ->", "sub": "Vemos que tienes hoy y que se puede hacer con eso."}
+  ]
+}

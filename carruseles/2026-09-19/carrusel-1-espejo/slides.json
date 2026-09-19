@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Ves el Instagram de la otra tienda y **se ve mucho mas movida** que la tuya"},
+    {"type": "text", "lines": ["Y ahi entra la duda:", "**le esta yendo mejor, o solo se ve asi?**"], "sub": "Puede que solo tenga a alguien subiendo fotos seguido, sin que eso signifique mas ventas."},
+    {"type": "text", "lines": ["Compararte por lo que se ve", "**en la pantalla**"], "sub": "es la forma mas facil de sentirte atras sin tener ningun dato real."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Tiendas de ropa, salones, locales chicos: **se enfocan en verse ocupadas** en vez de enfocarse en quien realmente les compra", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si dejaste de mirar tus propios numeros por mirar los de al lado, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}
