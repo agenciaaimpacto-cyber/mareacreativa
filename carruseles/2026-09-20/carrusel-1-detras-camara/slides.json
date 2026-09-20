@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI TRABAJAMOS", "text": "Antes de armar cualquier campana, te hacemos **4 preguntas**"},
+    {"type": "text", "lines": ["No partimos preguntando", "**cuanto quieres gastar**"], "sub": "Partimos por que vendes, cuantos clientes necesitas y cuanto puedes invertir de verdad."},
+    {"type": "text", "lines": ["La ultima pregunta es la que", "**casi nadie se hace**"], "sub": "que tendria que pasar para que la publicidad tenga sentido para tu negocio."},
+    {"type": "proof", "tag": "LO VEMOS SEGUIDO", "text": "Un taller mecanico no necesita mil autos al mes, **necesita saber cuantos le alcanzan** para no quedarse con el puente vacio", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si nunca te hicieron estas preguntas antes de venderte algo, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

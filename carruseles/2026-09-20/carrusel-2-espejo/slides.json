@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Revisas la agenda de manana **y esta vacia**"},
+    {"type": "text", "lines": ["Y ese vacio no se queda", "**en la agenda**"], "sub": "se mete en la cabeza todo el dia, aunque intentes no pensar en eso."},
+    {"type": "text", "lines": ["No es que no sepas hacer", "**tu pega**"], "sub": "es que nadie sabe que existes en el momento justo en que te estan necesitando."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Veterinarios, nutricionistas, profesionales con consulta propia: **el problema casi nunca es la calidad del trabajo**, es que no los encuentran a tiempo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si tu agenda de manana tambien esta vacia, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

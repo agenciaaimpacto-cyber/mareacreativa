@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META REAL", "text": "No se trata de llenar la semana entera, **se trata de llenar los dias justos**"},
+    {"type": "text", "lines": ["Si eres podologa", "**con consulta propia**"], "sub": "crecer no significa atender pacientes todos los dias. Puede ser simplemente llenar dos dias a la semana."},
+    {"type": "text", "lines": ["Esa meta chica y concreta", "**vale mas que una meta gigante**"], "sub": "porque se puede medir, se puede planear, y se puede lograr."},
+    {"type": "proof", "tag": "ASI LO VEMOS", "text": "Cuando sabes cuantos pacientes necesitas por semana, **puedes ordenar tu agenda** en vez de que la agenda te ordene a ti", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos tu meta y **vemos si tiene sentido.**", "button": "Escribenos por WhatsApp ->", "sub": "Sin compromiso, sin letra chica."}
+  ]
+}
