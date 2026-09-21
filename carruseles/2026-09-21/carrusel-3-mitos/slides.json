@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO MUY COMUN", "text": "**Primero necesito arreglar todo** -- logo, pagina web, redes -- y despues hago publicidad"},
+    {"type": "text", "lines": ["Tiene sentido querer", "**verse profesional primero**"], "sub": "nadie quiere invertir en publicidad y que la gente llegue a algo que se ve a medio hacer."},
+    {"type": "text", "lines": ["Pero muchos negocios", "**parten con lo que ya tienen**"], "sub": "y van ordenando el resto en paralelo, mientras ya estan llegando clientes."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "El que arregla notebooks en su taller no necesita una marca perfecta para **que la gente confie y llame**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "No esperes a que todo este perfecto **para empezar a conseguir clientes.**", "button": "Escribenos por WhatsApp ->", "sub": "Vemos juntos por donde partir."}
+  ]
+}

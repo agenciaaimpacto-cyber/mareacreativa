@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META NO ES CRECER SIN LIMITE", "text": "No necesitas ser **el tecnico mas conocido de la ciudad**"},
+    {"type": "text", "lines": ["Necesitas los clientes justos", "**para vivir bien de tu oficio**"], "sub": "sin que cada mes dependa de que alguien se acuerde de recomendarte."},
+    {"type": "text", "lines": ["Eso puede ser", "**3 o 4 trabajos buenos a la semana**"], "sub": "no cientos de llamadas, solo las suficientes para que el mes te calce."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "El objetivo no es llenar tu agenda de cualquier cosa, es **llenarla de lo que realmente te conviene**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos cuantos clientes necesitas **y armamos el plan desde ahi.**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

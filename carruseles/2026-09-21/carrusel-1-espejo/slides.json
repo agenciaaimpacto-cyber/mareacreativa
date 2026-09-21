@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Una vez invertiste en publicidad **y no paso nada**"},
+    {"type": "text", "lines": ["Desde ahi quedo la sensacion", "**de que no sirve**"], "sub": "y cada vez que alguien te ofrece publicidad, la respuesta automatica es no, gracias, ya lo intente."},
+    {"type": "text", "lines": ["Pero apretar **promocionar publicacion**", "no es lo mismo"], "sub": "que armar una campana con objetivo, segmentacion y seguimiento real."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Gasfiters, tecnicos, oficios de confianza: casi siempre **el problema no fue la publicidad**, fue como se hizo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si ya intentaste y no funciono, **hablemos antes de descartarlo del todo.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}
