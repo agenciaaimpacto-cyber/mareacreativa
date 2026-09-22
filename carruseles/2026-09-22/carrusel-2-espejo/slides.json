@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "No sabes si el proximo mes **va a ser bueno o malo**"},
+    {"type": "text", "lines": ["Todo depende de si alguien", "**se acuerda de recomendarte**"], "sub": "y esa suerte cambia todos los meses, sin ningun aviso previo."},
+    {"type": "text", "lines": ["Un mes lleno de contactos", "**y al siguiente, silencio**"], "sub": "sin que hayas cambiado nada de como trabajas."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Un agente de seguros no necesita mas suerte, **necesita una forma de que lo encuentren** cuando alguien esta buscando", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender solo del boca a boca, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre lo que necesitas."}
+  ]
+}

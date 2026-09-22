@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META NO ES CRECER SIN LIMITE", "text": "Poder decir **que no** a un mal cliente"},
+    {"type": "text", "lines": ["Eso solo pasa cuando tienes", "**demanda suficiente para elegir**"], "sub": "no cuando aceptas cualquier venta porque no sabes cuando llegara la proxima."},
+    {"type": "text", "lines": ["Una dueña de tienda de ropa", "**no necesita atender a todo el mundo**"], "sub": "necesita suficientes clientas que de verdad quieran lo que vende, no cualquiera que entre a mirar."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Cuando hay clientes suficientes, **elegir con quien trabajar deja de ser un lujo** y pasa a ser normal", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos que vendes **y vemos cuantos clientes necesitas para elegir tu.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

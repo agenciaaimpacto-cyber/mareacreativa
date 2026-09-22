@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI TRABAJAMOS", "text": "No te preguntamos **cuantos clientes quieres**, te preguntamos cuantos necesitas"},
+    {"type": "text", "lines": ["Son dos preguntas", "**muy distintas**"], "sub": "uno es un numero que suena bien, el otro es el numero que realmente te hace vivir bien de tu oficio."},
+    {"type": "text", "lines": ["Un entrenador personal no necesita", "**llenar el gimnasio entero**"], "sub": "necesita la cantidad de clientes que le permita cobrar bien y no sobre-agendarse."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Cuando armamos una campana, **partimos por ese numero**, no por cuanto presupuesto tienes para gastar", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos cuantos clientes necesitas **y armamos el plan desde ahi.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}
