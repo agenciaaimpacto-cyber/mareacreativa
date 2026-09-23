@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Te da miedo hacer publicidad y que te lleguen **puros curiosos** que nunca van a agendar hora"},
+    {"type": "text", "lines": ["Ese miedo es valido,", "pero casi nunca es culpa de la publicidad."], "sub": "Pasa cuando la campana le habla a cualquiera, no a quien de verdad busca lo que ofreces."},
+    {"type": "text", "lines": ["Una peluqueria de barrio", "**no necesita que le escriba toda la comuna**"], "sub": "necesita que le escriban las personas correctas, en el momento correcto."},
+    {"type": "proof", "tag": "COMO LO RESOLVEMOS", "text": "Antes de prender cualquier campana definimos **a quien le hablamos** y con que mensaje", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si te da miedo llenarte de mensajes que no sirven, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

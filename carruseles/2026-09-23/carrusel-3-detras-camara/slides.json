@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de prender cualquier campana, primero **pensamos a quien le hablamos**"},
+    {"type": "text", "lines": ["No partimos poniendo plata", "**ni eligiendo una foto bonita.**"], "sub": "Partimos por entender el negocio: que vendes, cuantos clientes necesitas."},
+    {"type": "text", "lines": ["Una nutricionista de consulta propia", "**no necesita hablarle a toda la ciudad**"], "sub": "necesita hablarle a quien esta buscando ayuda justo ahora."},
+    {"type": "stat", "number": "3", "unit": "preguntas", "text": "definen **a quien, en que momento y con que mensaje** antes de gastar el primer peso"},
+    {"type": "cta", "text": "Si quieres saber como se veria una campana pensada para tu negocio, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero, sin compromiso."}
+  ]
+}

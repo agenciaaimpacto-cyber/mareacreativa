@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Ves el Instagram de otra veterinaria y **se ve mucho mas movida** que la tuya"},
+    {"type": "text", "lines": ["Y ahi entra la duda:", "**le esta yendo mejor, o solo se ve asi?**"], "sub": "Puede que solo tenga a alguien publicando seguido, no mas pacientes que tu."},
+    {"type": "text", "lines": ["Compararte por lo que se ve", "**no te dice nada de lo que pasa de verdad**"], "sub": "en tu consulta ni en la de al lado."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Veterinarios, nutricionistas, profesores particulares: **el mismo patron**, dudar del propio negocio por lo que se ve en redes ajenas", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si te pasa esto, **dejemos de comparar y hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender que vendes y cuantos clientes necesitas."}
+  ]
+}
