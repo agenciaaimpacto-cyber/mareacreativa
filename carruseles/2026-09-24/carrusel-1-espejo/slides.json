@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Vives del boca a boca y **no tienes idea si el proximo mes va a ser bueno o malo**"},
+    {"type": "text", "lines": ["Una semana el telefono no para,", "**la otra no suena ni una vez**"], "sub": "No cambiaste nada. Simplemente dejaste de estar en el radar de quien te necesitaba justo esa semana."},
+    {"type": "text", "lines": ["Depender solo de que alguien", "**se acuerde de ti**"], "sub": "no es una estrategia, es esperar con suerte."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Tecnicos, gasfiters, electricistas: **el mismo patron**, meses buenos y meses vacios sin ninguna explicacion", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de **cruzar los dedos cada mes**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender que vendes y cuantos clientes necesitas."}
+  ]
+}

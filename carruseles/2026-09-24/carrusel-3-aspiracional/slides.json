@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META NO ES SER EL MAS CONOCIDO", "text": "No necesitas ser **el organizador de eventos mas famoso de la ciudad**"},
+    {"type": "text", "lines": ["Necesitas tener", "**la agenda de fechas llena lo suficiente**"], "sub": "para no pasar meses enteros sin un solo evento contratado."},
+    {"type": "text", "lines": ["El objetivo no es aceptar", "**cualquier matrimonio o evento**"], "sub": "es tener los suficientes para vivir de esto todo el año, no solo en temporada alta."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Cuando tienes fechas reservadas de forma constante, **dejas de vivir mes a mes** y puedes planificar con calma", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos cuantos eventos necesitas al mes **y vemos si tiene sentido.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

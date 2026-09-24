@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "\"Primero necesito una pagina web y fotos profesionales, **despues hago publicidad**\""},
+    {"type": "text", "lines": ["Tiene sentido querer", "**verte profesional**"], "sub": "nadie quiere mostrar algo a medio hacer, y ese instinto esta bien."},
+    {"type": "text", "lines": ["Pero muchos negocios generan resultados", "**con lo que ya tienen**"], "sub": "mientras la pagina, las fotos o el logo se ordenan en paralelo, no antes de todo lo demas."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Una nutricionista puede llenar horas de consulta **con el celular y una buena segmentacion**, sin esperar el sitio web perfecto", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si estas esperando que todo este listo para partir, **conversemos primero.**", "button": "Escribenos por WhatsApp ->", "sub": "Vemos que tienes hoy y que se puede hacer con eso."}
+  ]
+}

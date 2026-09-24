@@ -1,0 +1,13 @@
+{
+  "formato": "camara",
+  "pilar": "detras_camara",
+  "titulo": "Las 4 preguntas antes de armar tu campana",
+  "hook": "Antes de crear cualquier campana para un cliente, le hacemos las mismas 4 preguntas, siempre.",
+  "desarrollo": [
+    "Que vendes exactamente. No el rubro en general, sino lo que realmente ofreces tu, como una peluqueria o barberia con su propio estilo.",
+    "Cuantos clientes necesitas, no cuantos te gustaria tener. Un local no necesita el doble de agenda, necesita llenar los horarios que hoy estan vacios.",
+    "Cuanto puedes invertir, y que tendria que pasar para que esa plata tenga sentido para ti, no para nosotros."
+  ],
+  "cta": "Si nunca te hicieron estas preguntas antes de venderte publicidad, empecemos por ahi.",
+  "notas_produccion": "Grabar a camara, tono cercano, como explicando el proceso a un amigo. Se puede mostrar brevemente un cuaderno o tablet con notas al mencionar las preguntas."
+}
