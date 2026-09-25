@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Revisas la agenda de manana antes de acostarte y **esta vacia**"},
+    {"type": "text", "lines": ["No es que te falte trabajo hoy.", "**Es manana lo que te preocupa.**"], "sub": "Y pasado manana. Y el mes que viene, si sigue asi."},
+    {"type": "text", "lines": ["Sabes hacer tu pega mejor", "**que casi cualquiera.**"], "sub": "El problema no es tu trabajo, es que quien te necesita todavia no te encuentra."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Gasfiters, tecnicos, electricistas: **el mismo patron**, dias llenos y dias vacios sin ningun aviso", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de **mirar la agenda con miedo**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender que vendes y cuantos clientes necesitas."}
+  ]
+}

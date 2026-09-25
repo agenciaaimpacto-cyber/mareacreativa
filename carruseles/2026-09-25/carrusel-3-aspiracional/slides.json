@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META", "text": "No necesitas **llenar el gimnasio entero**"},
+    {"type": "text", "lines": ["Un entrenador personal no necesita", "**cientos de alumnos.**"], "sub": "Necesita los suficientes cupos llenos para vivir tranquilo de lo suyo."},
+    {"type": "text", "lines": ["Un fin de mes sin la pregunta", "**de si va a alcanzar.**"], "sub": "Eso es lo que cambia cuando dejas de depender solo de que alguien te recomiende."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **cuantos cupos necesitas llenar**, no por cuanta plata tienes que gastar", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres **los alumnos justos para vivir de lo tuyo**", "button": "Escribenos por WhatsApp ->", "sub": "Hablemos de tu negocio, sin compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Apretar **promocionar publicacion** no es lo mismo que tener una campana"},
+    {"type": "text", "lines": ["Casi todo dueno de taller", "**ya probo el boton azul.**"], "sub": "Le llega a quien sea, en el momento que sea, sin ningun filtro."},
+    {"type": "text", "lines": ["Una campana real parte", "**al reves.**"], "sub": "Primero a quien le hablas, despues con que mensaje, recien ahi cuanto inviertes."},
+    {"type": "stat", "number": "3", "unit": "preguntas", "text": "definen si esa plata **le llega a alguien que de verdad necesita tu taller**"},
+    {"type": "cta", "text": "Si quieres pasar del boton azul **a una campana con seguimiento**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
