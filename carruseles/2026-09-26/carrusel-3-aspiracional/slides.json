@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META", "text": "No necesitas **la sala de espera llena todo el dia**"},
+    {"type": "text", "lines": ["Necesitas las consultas suficientes", "**para vivir bien de tu profesion.**"], "sub": "Sin trabajar el fin de semana solo para que el mes te calce."},
+    {"type": "text", "lines": ["Cuando tienes agenda pareja", "**dejas de depender de la suerte.**"], "sub": "Y puedes elegir mejor tu propio ritmo de trabajo."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **cuantas consultas necesitas** a la semana, no por cuanta plata tienes que gastar", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres **una agenda pareja, no perfecta**", "button": "Escribenos por WhatsApp ->", "sub": "Hablemos de tu negocio, sin compromiso."}
+  ]
+}

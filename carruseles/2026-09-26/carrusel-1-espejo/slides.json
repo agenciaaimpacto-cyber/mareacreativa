@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Llevas **semanas trabajando doble** y las ventas no suben nada"},
+    {"type": "text", "lines": ["Abres mas horas.", "**Subes mas fotos.**"], "sub": "Y el mes sigue sintiendose igual de flojo que el anterior."},
+    {"type": "text", "lines": ["El problema no es", "**cuanto esfuerzo le pones.**"], "sub": "Es que la gente que busca lo que vendes todavia no te encuentra a ti primero."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Tiendas de barrio, talleres, servicios: **el mismo patron**, mas horas de trabajo sin mas clientes nuevos", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si sientes que **el esfuerzo no es el problema**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender que vendes y cuantos clientes necesitas."}
+  ]
+}

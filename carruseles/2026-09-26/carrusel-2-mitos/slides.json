@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO MUY COMUN", "text": "**La publicidad es para empresas grandes** con mucho presupuesto"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi", "**si solo has visto anuncios de marcas grandes.**"], "sub": "Pero el punto de partida nunca es un presupuesto minimo."},
+    {"type": "text", "lines": ["El que fabrica portones no necesita", "**miles de clientes al mes.**"], "sub": "Necesita las cotizaciones suficientes para no quedarse sin pega."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Partimos por **cuantos clientes necesitas**, no por cuanta plata crees que hay que tener", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si crees que **la publicidad no es para tu negocio**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero, sin compromiso."}
+  ]
+}
