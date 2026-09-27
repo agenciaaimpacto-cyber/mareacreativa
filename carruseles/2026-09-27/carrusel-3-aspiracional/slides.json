@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "No necesitas ser **el tecnico mas conocido** de tu ciudad"},
+    {"type": "text", "lines": ["Necesitas los trabajos justos", "**para vivir bien de tu oficio.**"], "sub": "Eso puede ser 3 o 4 instalaciones o reparaciones buenas a la semana."},
+    {"type": "text", "lines": ["No es tener mas pega.", "**Es tener pega segura.**"], "sub": "Saber que la semana que viene tambien va a rendir, sin depender de la suerte."},
+    {"type": "proof", "tag": "ASI LO PENSAMOS", "text": "Un tecnico en refrigeracion no necesita **cientos de clientes**, necesita los suficientes para no tener semanas vacias", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos cuantos trabajos necesitas **y armamos el plan desde ahi**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu oficio, no por venderte un paquete generico."}
+  ]
+}

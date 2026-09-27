@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Promocionar una publicacion **no es lo mismo** que tener una campana"},
+    {"type": "text", "lines": ["Casi todo agente de seguros", "**ya probo el boton azul.**"], "sub": "Se siente facil, pero no hay forma de saber a quien le llego ni por que."},
+    {"type": "text", "lines": ["Una campana real", "**parte al reves.**"], "sub": "Primero definimos a quien le hablamos y que resultado buscamos, y ahi si se elige donde poner la plata."},
+    {"type": "stat", "number": "3", "unit": "preguntas", "text": "definimos antes de mover un solo peso: **a quien, con que mensaje y con que objetivo**"},
+    {"type": "cta", "text": "Si quieres pasar del boton azul **a una campana con seguimiento**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
