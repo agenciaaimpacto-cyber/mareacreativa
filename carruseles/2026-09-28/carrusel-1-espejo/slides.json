@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ESTO TE SUENA?", "text": "Ves el Instagram de otra peluqueria y **se ve mucho mas movida** que la tuya"},
+    {"type": "text", "lines": ["No sabes si de verdad", "**le esta yendo mejor**,", "o solo se ve asi."], "sub": "Y esa duda se mete en la cabeza mas de lo que te gustaria admitir."},
+    {"type": "text", "lines": ["Pasa con peluquerias,", "**veterinarias, talleres,", "cualquier negocio chico**."], "sub": "El mismo patron: comparar el propio negocio con lo que se ve en redes ajenas."},
+    {"type": "proof", "tag": "LO QUE HACEMOS DISTINTO", "text": "No trabajamos para que **te veas mas movida** en redes, trabajamos para que **la agenda este llena de verdad**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si te ha pasado esto con **otro local del rubro**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por comparar feeds."}
+  ]
+}

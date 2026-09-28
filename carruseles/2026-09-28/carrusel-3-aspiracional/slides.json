@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "No necesitas atender **a todas las mascotas de la ciudad**"},
+    {"type": "text", "lines": ["Necesitas las consultas", "**suficientes**", "para no tener semanas flacas."], "sub": "El objetivo no es la fama, es una agenda con la que puedas vivir tranquilo."},
+    {"type": "text", "lines": ["Un veterinario con local propio", "no vive de **tener miles de seguidores**,", "vive de que **le escriban cuando lo necesitan**."], "sub": "Lo mismo aplica para casi cualquier oficio de confianza."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **cuantas consultas necesitas** a la semana, no por cuanta plata crees que hay que gastar", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres una agenda **que puedas sostener**", "button": "Escribenos por WhatsApp ->", "sub": "Hablemos de tu negocio, no de formulas genericas."}
+  ]
+}

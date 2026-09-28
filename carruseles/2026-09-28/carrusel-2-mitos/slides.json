@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MIEDO COMUN", "text": "Ya probe poner plata en Facebook **y no funciono**"},
+    {"type": "text", "lines": ["Perder plata en publicidad", "**duele de verdad**."], "sub": "Es normal que despues de eso te de desconfianza volver a intentarlo."},
+    {"type": "text", "lines": ["Pero apretar **promocionar publicacion**", "no es lo mismo que", "**una campana con estrategia**."], "sub": "Sin segmentacion ni seguimiento, cualquier plata se puede sentir perdida."},
+    {"type": "proof", "tag": "LO QUE HACEMOS DISTINTO", "text": "El que fabrica e instala portones no necesita **mas alcance**, necesita las cotizaciones justas **para no quedarse sin pega**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si una vez sentiste que **la publicidad no te sirve**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero de tu negocio antes de prender cualquier campana."}
+  ]
+}
