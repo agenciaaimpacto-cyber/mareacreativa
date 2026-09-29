@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "\"Primero necesito **arreglar la furgoneta y hacerme un logo**, despues hago publicidad\""},
+    {"type": "text", "lines": ["Querer verte profesional", "**es totalmente valido.**"], "sub": "Nadie quiere salir a buscar clientes sintiendo que su imagen no esta a la altura."},
+    {"type": "text", "lines": ["Pero un gasfiter no necesita", "**todo perfecto para empezar.**"], "sub": "Puede conseguir los primeros llamados con lo que ya tiene, mientras ordena el resto en paralelo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Muchos negocios generan resultados **con lo que ya tienen hoy**, no con la version perfecta que imaginan a futuro", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si estas esperando que todo este perfecto para partir, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

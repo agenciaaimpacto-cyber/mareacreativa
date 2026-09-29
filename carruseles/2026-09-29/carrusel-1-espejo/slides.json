@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Este mes empezo bien y de repente, sin razon clara, **se enfrio**"},
+    {"type": "text", "lines": ["No cambiaste nada,", "**simplemente dejaron de escribirte.**"], "sub": "Y ahi entra la duda: hiciste algo mal, o solo te toco un mes flojo?"},
+    {"type": "text", "lines": ["Una nutricionista independiente", "**vive lo mismo.**"], "sub": "Semanas con agenda llena y semanas donde el telefono simplemente no suena, sin ningun patron claro."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Cuando un negocio depende solo del boca a boca, **los meses buenos y malos no tienen logica** detras", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si tu mes tambien se enfrio sin aviso, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

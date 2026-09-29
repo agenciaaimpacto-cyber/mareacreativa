@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "No necesitas asegurar **a toda la comuna**"},
+    {"type": "text", "lines": ["Necesitas las polizas justas", "**para tener un mes tranquilo.**"], "sub": "Eso puede ser un puñado de clientes nuevos a la semana, no una cartera gigante."},
+    {"type": "text", "lines": ["No es vender mas por vender.", "**Es vender con previsibilidad.**"], "sub": "Saber que el proximo mes tambien va a rendir, sin depender solo de la suerte."},
+    {"type": "proof", "tag": "ASI LO PENSAMOS", "text": "Un agente de seguros no necesita **cientos de asegurados**, necesita los suficientes para que el mes le calce", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos cuantas polizas necesitas **y armamos el plan desde ahi**", "button": "Escribenos por WhatsApp ->", "sub": "Sin compromiso, sin letra chica."}
+  ]
+}
