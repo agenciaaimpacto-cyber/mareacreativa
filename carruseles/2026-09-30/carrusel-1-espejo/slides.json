@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Un dia el telefono suena todo el dia, al otro **no suena ni una vez**"},
+    {"type": "text", "lines": ["No es que dejaste de ser bueno", "**en tu pega.**"], "sub": "Es que nadie sabe cuando te va a necesitar, y tu tampoco puedes adivinarlo."},
+    {"type": "text", "lines": ["Depender solo del boca a boca", "**no te deja planificar nada.**"], "sub": "No sabes si la semana que viene vas a tener cinco trabajos o ninguno."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "Tecnicos en refrigeracion, gasfiters, electricistas: **el mismo problema**, trabajo que aparece y desaparece sin ningun aviso", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de **depender solo de la suerte**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender que vendes y cuantos clientes necesitas."}
+  ]
+}

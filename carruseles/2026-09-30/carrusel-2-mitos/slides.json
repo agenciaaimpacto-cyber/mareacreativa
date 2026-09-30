@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MIEDO COMUN", "text": "Si hago publicidad **me van a escribir puros duenos que no van a pagar la consulta**"},
+    {"type": "text", "lines": ["Es un miedo valido.", "**Nadie quiere perder tiempo** respondiendo mensajes que no van a ninguna parte."], "sub": "Pero eso casi nunca es culpa de hacer publicidad."},
+    {"type": "text", "lines": ["Es culpa de **no definir**", "a quien le estas hablando."], "sub": "Un anuncio sin segmentacion le llega a cualquiera, no a quien de verdad tiene una mascota que atender."},
+    {"type": "proof", "tag": "LO QUE HACEMOS DISTINTO", "text": "Un veterinario no necesita **mil mensajes**, necesita los mensajes de duenos **con una mascota que de verdad necesita consulta**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si te da miedo **llenarte de consultas que no sirven**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por definir a quien le hablamos antes de gastar el primer peso."}
+  ]
+}

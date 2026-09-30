@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "No necesitas ser **la peluqueria mas conocida** de tu sector"},
+    {"type": "text", "lines": ["Necesitas la agenda", "**llena los dias que a ti te sirven.**"], "sub": "Eso puede ser de martes a sabado, no los siete dias de la semana."},
+    {"type": "text", "lines": ["No es sumar mas horas.", "**Es que esas horas rindan.**"], "sub": "Saber que cada silla ocupada es porque alguien te eligio, no porque bajaste el precio."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **cuantos clientes necesitas** a la semana, no por cuanta plata crees que hay que gastar", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres **una agenda llena, no un local lleno de gente que no vuelve**", "button": "Escribenos por WhatsApp ->", "sub": "Hablemos de tu negocio, sin compromiso."}
+  ]
+}
