@@ -1,0 +1,22 @@
+GUION — Depender solo del boca a boca y no poder predecir nada
+Formato: voz_en_off | Pilar: espejo | Duracion objetivo: 45-60 segundos
+============================================================
+
+[HOOK — primeros 3 segundos]
+Un mes te recomiendan tres clientes seguidos. Al siguiente, ninguno.
+
+[DESARROLLO]
+1. El que arregla notebooks lo sabe bien: un cliente contento te manda a dos mas, y de repente se corta la cadena sin aviso.
+2. No es que hiciste algo distinto. Es que el boca a boca no avisa cuando se va a enfriar.
+3. Mientras dependas solo de eso, nunca vas a poder planificar un mes con certeza.
+4. No se trata de dejar el boca a boca, se trata de no depender solo de el.
+
+[CIERRE / CTA]
+Si quieres dejar de adivinar como viene el mes, conversemos primero.
+
+------------------------------------------------------------
+NOTA DE FORMATO:
+Voz en off sobre visuales/texto en pantalla. Cortar de escena/plano cada 2-3 segundos para mantener el ritmo. El hook debe coincidir con el primer corte de imagen, no con un plano largo.
+
+NOTAS DE PRODUCCION:
+Visuales sugeridos: notebook abierto en el mesón de trabajo, celular con chats de clientes antiguos, texto en pantalla remarcando las frases clave. Cortar de plano cada 2-3 segundos.

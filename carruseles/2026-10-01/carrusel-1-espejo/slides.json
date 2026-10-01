@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "El mes empezo bien, y **de la nada se enfrio** sin ninguna razon clara"},
+    {"type": "text", "lines": ["No cambiaste nada.", "**No bajaste la calidad.**"], "sub": "Y aun asi las cotizaciones que pedian portones hace tres semanas, esta semana no llegan."},
+    {"type": "text", "lines": ["El problema no es que trabajes mal.", "**Es que nadie sabe que existes** cuando te necesita."], "sub": "El boca a boca te trae trabajo cuando le toca, no cuando tu lo necesitas."},
+    {"type": "proof", "tag": "LO QUE VEMOS SEGUIDO", "text": "El que fabrica portones, el gasfiter, el tecnico: **el mismo mes irregular**, sin forma de saber si viene bueno o malo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de **adivinar como viene el mes**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender que vendes y cuantos clientes necesitas."}
+  ]
+}

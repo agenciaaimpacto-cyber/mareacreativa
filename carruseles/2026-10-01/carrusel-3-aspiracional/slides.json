@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "No necesitas **mil clientes nuevos.** Necesitas poder elegir"},
+    {"type": "text", "lines": ["Cuando hay suficiente demanda,", "**puedes decir que no.**"], "sub": "A ese cliente que regatea, al trabajo que te complica la semana por nada."},
+    {"type": "text", "lines": ["Eso no se consigue", "**esperando el boca a boca.**"], "sub": "Se consigue teniendo mas de un trabajo esperando cuando termina el que tienes ahora."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **cuantos trabajos necesitas** al mes, no por cuanta plata crees que hay que gastar", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres **elegir a tus clientes, no depender de cualquiera**", "button": "Escribenos por WhatsApp ->", "sub": "Hablemos de tu negocio, sin compromiso."}
+  ]
+}

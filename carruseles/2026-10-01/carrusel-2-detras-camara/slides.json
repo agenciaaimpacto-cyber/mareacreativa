@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de crear cualquier campana, nos hacemos **4 preguntas**"},
+    {"type": "text", "lines": ["La primera no es cuanto presupuesto tienes.", "**Es que vendes.**"], "sub": "Una nutricionista no vende lo mismo que un taller, y eso cambia todo lo que sigue."},
+    {"type": "text", "lines": ["La segunda es cuantos clientes", "**realmente necesitas.**"], "sub": "No cuantos quisieras tener, sino cuantos te hacen sentido llenando tu semana."},
+    {"type": "stat", "number": "4", "unit": "preguntas", "text": "que vendes, cuantos clientes necesitas, cuanto puedes invertir y **que tendria que pasar** para que valga la pena", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres partir por **entender tu negocio, no por venderte nada**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre que vendes y cuantos clientes necesitas."}
+  ]
+}
