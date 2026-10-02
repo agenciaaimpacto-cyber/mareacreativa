@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO COMUN", "text": "La publicidad es **para empresas grandes** con mucha plata"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi", "**si solo has visto** publicidad de marcas grandes."], "sub": "Spots caros, presupuestos que no tienen nada que ver con tu negocio."},
+    {"type": "text", "lines": ["Pero el punto de partida", "**nunca es un presupuesto minimo.**"], "sub": "Es cuantos clientes necesitas tu, no cuanto gastan las marcas grandes."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Un entrenador personal no necesita **el presupuesto de una multitienda**, necesita los cupos justos para llenar su semana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si crees que la publicidad **no es para un negocio como el tuyo**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender cuantos clientes necesitas, no por venderte un paquete generico."}
+  ]
+}

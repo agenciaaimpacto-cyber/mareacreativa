@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Ya invertiste en publicidad una vez y **no paso nada**, asi que mejor ni lo intentas de nuevo"},
+    {"type": "text", "lines": ["Es un miedo totalmente valido.", "**Perder plata duele**, y mas si te costo ganarla."], "sub": "Por eso cuesta tanto volver a intentarlo."},
+    {"type": "text", "lines": ["Pero casi siempre el problema", "**no fue la publicidad en si.**"], "sub": "Fue apretar promocionar sin saber a quien le estabas hablando ni que resultado buscabas."},
+    {"type": "proof", "tag": "LO QUE HACEMOS DISTINTO", "text": "Un barbero no necesita **gastar mas**, necesita que la plata llegue a quien de verdad busca corte esta semana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si una vez sentiste que **la publicidad no te sirvio**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero de tu negocio antes de prender cualquier campana."}
+  ]
+}
