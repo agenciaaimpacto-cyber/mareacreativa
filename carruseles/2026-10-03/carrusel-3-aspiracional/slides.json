@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META", "text": "No necesitas **cotizar con media ciudad.** Necesitas no quedarte sin pega ningun mes"},
+    {"type": "text", "lines": ["No se trata de ser", "**el mas conocido** fabricando portones."], "sub": "Se trata de que el trabajo no se corte de un mes a otro."},
+    {"type": "text", "lines": ["Partimos por **cuantas cotizaciones** necesitas al mes,", "no por cuanta plata crees que hay que gastar."], "sub": "De ahi armamos todo lo demas."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "El que fabrica e instala portones no necesita **mas alcance**, necesita las cotizaciones justas **para no quedarse sin pega**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un mes **sin la ansiedad de si va a alcanzar**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

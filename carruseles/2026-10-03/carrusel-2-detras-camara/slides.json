@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DETRAS DE CAMARA", "text": "No te preguntamos **cuantos clientes quieres**, te preguntamos **cuantos clientes necesitas**"},
+    {"type": "text", "lines": ["Suena parecido, pero", "**no es lo mismo.**"], "sub": "Querer es ilimitado. Necesitar tiene un numero real detras."},
+    {"type": "text", "lines": ["Ese numero sale de tu negocio:", "**cuanto puedes atender, cuanto necesitas facturar.**"], "sub": "Y de ahi recien armamos la campana, no antes."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Primero entendemos tu negocio, **despues prendemos cualquier campana**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si nunca te habian preguntado **cuantos clientes necesitas de verdad**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por ahi, no por venderte un paquete generico."}
+  ]
+}

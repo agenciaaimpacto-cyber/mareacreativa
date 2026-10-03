@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE HA PASADO...", "text": "Te da miedo hacer publicidad porque crees que **te van a escribir puros curiosos** que no van a pagar la consulta"},
+    {"type": "text", "lines": ["Es un miedo totalmente valido.", "**Nadie quiere** llenarse de mensajes que no llevan a nada."], "sub": "El problema no es publicitar, es publicitar sin segmentar."},
+    {"type": "text", "lines": ["Cuando una campana esta bien armada,", "**no le habla a cualquiera.**"], "sub": "Le habla a quien de verdad esta buscando lo que tu ofreces, en tu zona."},
+    {"type": "proof", "tag": "LO QUE HACEMOS DISTINTO", "text": "Una nutricionista no necesita **mil consultas agendadas**, necesita los mensajes de quienes de verdad quieren empezar un proceso", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si el miedo a los mensajes que no sirven **te tiene frenada**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero de tu negocio antes de prender cualquier campana."}
+  ]
+}
