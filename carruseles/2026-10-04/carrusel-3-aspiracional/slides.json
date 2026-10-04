@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META", "text": "No necesitas **atender animales todo el dia.** Necesitas un fin de mes sin la ansiedad de si va a alcanzar"},
+    {"type": "text", "lines": ["No se trata de tener", "**la consulta mas conocida** del sector."], "sub": "Se trata de tener las consultas suficientes para vivir tranquilo de tu profesion."},
+    {"type": "text", "lines": ["Partimos por **cuantas consultas** necesitas al mes,", "no por cuanta plata crees que hay que gastar."], "sub": "De ahi armamos todo lo demas."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Un veterinario con consulta propia no necesita **mas alcance**, necesita los pacientes justos **para vivir bien de lo suyo**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un mes **sin la ansiedad de si va a alcanzar**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

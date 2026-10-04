@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "Si hago publicidad **me van a escribir puros curiosos** que no van a pagar la consulta"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo", "**si nunca segmentaste** a quien le hablas."], "sub": "Publicidad sin estrategia le llega a cualquiera, no a quien realmente necesita tu consulta."},
+    {"type": "text", "lines": ["La diferencia esta en **a quien le hablas,**", "con que mensaje y en que momento."], "sub": "Eso es estrategia, no publicidad a ciegas."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Para una nutricionista, armamos la campana para que **lleguen pacientes que de verdad buscan** lo que ofreces", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Listo para que **te lleguen los pacientes correctos?**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

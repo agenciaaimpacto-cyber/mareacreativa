@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Ya probaste publicidad una vez **y no funciono.** Asi que decidiste no volver a intentarlo"},
+    {"type": "text", "lines": ["Pero la plata que perdiste", "**no fue culpa de la publicidad.**"], "sub": "Fue culpa de no tener una estrategia detras del boton promocionar."},
+    {"type": "text", "lines": ["Subir una foto y **ponerle plata**", "no es lo mismo que una campana pensada."], "sub": "Ahi esta la diferencia entre perder plata e invertir con sentido."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Antes de prender cualquier campana para tu peluqueria o barberia, **partimos por tu negocio**, no por un boton", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo **de la forma correcta esta vez**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
