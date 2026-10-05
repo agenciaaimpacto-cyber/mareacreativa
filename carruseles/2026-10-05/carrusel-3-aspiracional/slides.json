@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META REAL", "text": "No necesitas **cientos de pacientes.** Necesitas llenar dos dias de tu semana"},
+    {"type": "text", "lines": ["Si tu agenda de martes y jueves", "**estuviera siempre llena,**"], "sub": "ya tendrias el mes resuelto, sin necesitar una fila de gente en la puerta."},
+    {"type": "text", "lines": ["El objetivo no es crecer", "**sin limite.**"], "sub": "Es tener los pacientes justos para que tu semana tenga sentido."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos preguntando **cuantos pacientes necesitas**, no cuantos te gustaria tener", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres llenar **los dias que de verdad necesitas**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

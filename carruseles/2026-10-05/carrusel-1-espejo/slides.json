@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Ves al otro entrenador de tu zona siempre subiendo historias llenas de gente **y te preguntas que estas haciendo mal**"},
+    {"type": "text", "lines": ["Puede que ese gimnasio", "**no este lleno todos los dias.**"], "sub": "Solo esta mostrando los mejores 5 minutos de su semana, no el resto."},
+    {"type": "text", "lines": ["Compararte con una foto", "**no te dice nada real.**"], "sub": "Lo unico que importa es si tu agenda tiene los clientes que necesitas, no si la de otro se ve mas llena."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "No te comparamos con nadie, **partimos por tu negocio** y cuantos clientes necesitas tu", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de mirar la agenda de otro **y enfocarte en la tuya**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

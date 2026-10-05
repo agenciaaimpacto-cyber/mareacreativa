@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "La publicidad es **para empresas grandes** con mucho presupuesto, no para mi negocio de eventos"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo", "**si solo has visto publicidad de marcas grandes.**"], "sub": "Pero el punto de partida nunca es un presupuesto minimo, es tu negocio."},
+    {"type": "text", "lines": ["La pregunta no es cuanta plata tienes,", "**es cuantos eventos necesitas al mes.**"], "sub": "De ahi para atras se arma todo lo demas, incluido cuanto invertir."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **cuantos eventos necesitas**, no por un presupuesto minimo que alguien te invento", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres saber **cuanto tendria sentido invertir en tu caso**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
