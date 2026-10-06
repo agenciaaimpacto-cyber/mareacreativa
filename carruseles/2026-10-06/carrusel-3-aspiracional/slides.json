@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META", "text": "No necesitas un local **lleno todo el dia.** Necesitas la agenda llena los dias que de verdad te conviene trabajar"},
+    {"type": "text", "lines": ["No se trata de atender", "**a todo el mundo.**"], "sub": "Se trata de tener los clientes suficientes para que el mes rinda."},
+    {"type": "text", "lines": ["Un fin de mes sin preguntarte", "**si vas a alcanzar a pagar todo.**"], "sub": "Esa tranquilidad tambien se puede construir con publicidad bien hecha."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos preguntando cuantos clientes necesitas **tu**, no cuantos deberias querer", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si tu meta es llenar tu agenda **sin depender de la suerte**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

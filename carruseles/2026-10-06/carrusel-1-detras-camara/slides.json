@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI TRABAJAMOS", "text": "Si tienes una veterinaria y alguien te dice que te va a hacer publicidad **sin preguntarte nada de tu negocio**, cuidado"},
+    {"type": "text", "lines": ["Apretar el boton", "**promocionar** no es una campana."], "sub": "Es poner plata sin saber a quien le estas hablando ni que resultado buscas."},
+    {"type": "text", "lines": ["Antes de prender cualquier campana", "**hacemos 4 preguntas simples.**"], "sub": "Que vendes, cuantos clientes necesitas, cuanto puedes invertir y que tendria que pasar para que valga la pena."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Primero entendemos tu veterinaria, **despues armamos la campana** - no al reves", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que primero pensemos tu negocio **antes de prender cualquier boton**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

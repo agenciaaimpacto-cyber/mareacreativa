@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Pusiste plata en publicidad una vez, **no llego ningun paciente nuevo** y decidiste que no era para ti"},
+    {"type": "text", "lines": ["El problema no fue", "**gastar en publicidad.**"], "sub": "Fue gastar sin saber a quien le estabas hablando ni que buscabas lograr."},
+    {"type": "text", "lines": ["Promocionar una foto", "**no es lo mismo que una campana.**"], "sub": "Una campana real sabe a quien le habla, en que momento y con que mensaje."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Antes de prender cualquier campana para tu consulta, **partimos por tu negocio**, no por un boton", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres volver a intentarlo **pero esta vez bien hecho**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
