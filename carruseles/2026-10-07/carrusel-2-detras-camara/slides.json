@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI TRABAJAMOS", "text": "Apretar **promocionar publicacion** y tener una campana no es lo mismo"},
+    {"type": "text", "lines": ["Un tecnico en refrigeracion", "**ya probo el boton azul.**"], "sub": "Se siente rapido y facil, pero no hay forma de saber a quien le llego ni si realmente sirvio."},
+    {"type": "text", "lines": ["Una campana real", "**parte al reves.**"], "sub": "Primero definimos a quien le hablamos y que resultado buscamos, recien ahi se decide donde poner la plata."},
+    {"type": "stat", "number": "3", "unit": "preguntas", "text": "definen a quien le hablamos, **en que momento y con que mensaje**"},
+    {"type": "cta", "text": "Si quieres entender la diferencia **para tu negocio, escribenos.**", "button": "Escribenos por WhatsApp ->", "sub": "Sin compromiso, sin letra chica."}
+  ]
+}

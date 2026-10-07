@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META", "text": "No necesitas **cotizar con todo el pueblo.** Necesitas no quedarte sin trabajo ningun mes"},
+    {"type": "text", "lines": ["Si tienes un taller mecanico,", "**no se trata de ser el mas conocido.**"], "sub": "Se trata de que no se corte el flujo de autos entrando de un mes a otro."},
+    {"type": "text", "lines": ["Partimos por **cuantos trabajos** necesitas al mes,", "no por cuanta plata crees que hay que gastar."], "sub": "De ahi armamos todo lo demas."},
+    {"type": "proof", "tag": "LA IDEA", "text": "Los clientes **justos para que el mes rinda**, no una fila interminable en la puerta", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres trabajo mas parejo durante el mes, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

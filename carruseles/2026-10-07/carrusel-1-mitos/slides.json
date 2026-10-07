@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "Antes de hacer publicidad **tengo que arreglar mi imagen primero** -- el logo, el letrero, todo"},
+    {"type": "text", "lines": ["Tiene sentido querer", "**verte mas profesional.**"], "sub": "Nadie quiere mostrar su negocio a medio terminar en un anuncio."},
+    {"type": "text", "lines": ["Pero si eres gasfiter y la gente", "**te llama por una urgencia,**"], "sub": "no te esta eligiendo por tu logo, te esta eligiendo porque llegas rapido y resuelves."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Se puede empezar a generar clientes **con lo que ya tienes hoy**, mientras lo demas se ordena en paralelo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si estas esperando que todo este perfecto **para partir, hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un rediseño."}
+  ]
+}
