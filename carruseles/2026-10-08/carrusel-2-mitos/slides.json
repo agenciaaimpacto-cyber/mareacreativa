@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "Ya puse plata en Facebook una vez **y no funciono,** asi que mejor no vuelvo a intentarlo"},
+    {"type": "text", "lines": ["Tiene sentido desconfiar", "**despues de perder plata.**"], "sub": "Si eres gasfiter y probaste solo, entendemos por que no quieres repetirlo."},
+    {"type": "text", "lines": ["Pero apretar", "**promocionar publicacion**"], "sub": "no es lo mismo que una campana con a quien le hablas, en que momento y con que mensaje."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Primero vemos cuantos clientes necesitas, **despues armamos la campana,** no al reves", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo **de la forma correcta esta vez,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

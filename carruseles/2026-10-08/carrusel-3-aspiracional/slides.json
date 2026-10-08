@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "No necesitas **cientos de pacientes.** Necesitas llenar dos dias de tu agenda a la semana"},
+    {"type": "text", "lines": ["Si eres podologa,", "**esa es la meta real.**"], "sub": "No un local lleno todo el dia, sino los pacientes justos en los dias que te convienen."},
+    {"type": "text", "lines": ["Partimos preguntando", "**cuantos pacientes necesitas,**"], "sub": "no cuantos te gustaria tener segun lo que ves en otros."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Los clientes **justos para llenar tu semana,** no una lista interminable de consultas", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres llenar **los dias que de verdad necesitas,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un numero al azar."}
+  ]
+}

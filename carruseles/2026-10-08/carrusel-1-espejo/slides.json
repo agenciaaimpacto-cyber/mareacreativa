@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE SIENTE FAMILIAR?", "text": "Si tienes un taller mecanico y sientes que **trabajar mas horas** no esta resolviendo nada"},
+    {"type": "text", "lines": ["No es un problema", "**de esfuerzo.**"], "sub": "Ya le metes horas de sobra al taller y los autos siguen llegando irregular."},
+    {"type": "text", "lines": ["Es un problema de que", "**no te estan encontrando**"], "sub": "la gente que necesita un mecanico de confianza no sabe que existes."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Primero entendemos tu taller, **despues armamos la campana** - no al reves", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te lleguen **los autos que faltan,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
