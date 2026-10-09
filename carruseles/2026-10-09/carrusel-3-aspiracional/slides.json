@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "No necesitas **cotizar con media region.** Necesitas no quedarte sin pega ningun mes"},
+    {"type": "text", "lines": ["Si fabricas o instalas portones,", "**esa es la meta real.**"], "sub": "No ser el mas conocido del rubro, sino tener trabajo seguido mes a mes."},
+    {"type": "text", "lines": ["Partimos preguntando", "**cuantas cotizaciones necesitas,**"], "sub": "no cuanta plata crees que hay que gastar en publicidad."},
+    {"type": "proof", "tag": "LA IDEA", "text": "Los clientes **justos para que el mes rinda,** no una fila interminable de cotizaciones", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres trabajo mas parejo durante el mes, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

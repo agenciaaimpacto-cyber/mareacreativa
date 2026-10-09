@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE SIENTE FAMILIAR?", "text": "Si eres agente de seguros y cada mes **vuelves a partir de cero,** sin saber si van a entrar polizas nuevas"},
+    {"type": "text", "lines": ["No es que no sepas", "**vender seguros.**"], "sub": "Conoces tus productos, atiendes bien, haces seguimiento. Eso no es el problema."},
+    {"type": "text", "lines": ["Es que no tienes forma de", "**predecir el mes que viene**"], "sub": "y vives revisando el telefono esperando que alguien se acuerde de ti."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Primero entendemos cuantas polizas necesitas al mes, **despues armamos la campana** - no al reves", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de que **se acuerden de ti,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

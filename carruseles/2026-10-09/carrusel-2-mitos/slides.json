@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "Si hago publicidad **me van a escribir puros curiosos** que preguntan precio y no agendan hora"},
+    {"type": "text", "lines": ["Tiene sentido ese miedo", "**si eres nutricionista.**"], "sub": "Perder tiempo respondiendo mensajes que no llevan a nada cansa, y de verdad pasa."},
+    {"type": "text", "lines": ["Pero eso ocurre cuando", "**la campana le habla a cualquiera**"], "sub": "no a la persona que de verdad esta buscando empezar un proceso contigo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Ahi es donde entra la estrategia: **a quien le hablas, en que momento** y con que mensaje", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de perder tiempo **con mensajes que no sirven,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
