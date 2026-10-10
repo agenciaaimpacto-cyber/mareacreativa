@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO COMUN", "text": "Crees que la publicidad **es solo para empresas grandes** con mucho presupuesto - por eso nunca lo intentas"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi", "**si solo has visto**"], "sub": "anuncios de marcas grandes con presupuestos que a ti ni te hacen sentido."},
+    {"type": "text", "lines": ["Pero el punto de partida", "**nunca es un presupuesto minimo.**"], "sub": "Es cuantos clientes necesitas tu, como gasfiter, para que te haga sentido."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Primero definimos cuantas pegas necesitas al mes **y de ahi armamos la campana** - no al reves", "source": "Marea Creativa"},
+    {"type": "cta", "text": "No necesitas ser una **gran empresa** para que te funcione.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

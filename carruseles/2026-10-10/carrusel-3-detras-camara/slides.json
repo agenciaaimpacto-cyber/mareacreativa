@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de crear cualquier campana para arreglar notebooks, te hacemos **4 preguntas simples**"},
+    {"type": "stat", "number": "4", "unit": "preguntas", "text": "respondemos antes de prender **cualquier campana de publicidad**"},
+    {"type": "text", "lines": ["Que arreglas, cuantos equipos", "**necesitas al mes,**"], "sub": "cuanto puedes invertir y que tendria que pasar para que valga la pena."},
+    {"type": "proof", "tag": "POR QUE LO HACEMOS ASI", "text": "Sin estas respuestas, **cualquier campana es tirar plata** a ver que pasa", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres partir por las preguntas **antes que por el boton,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un paquete generico."}
+  ]
+}

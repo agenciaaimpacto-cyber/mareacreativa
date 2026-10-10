@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE SIENTE FAMILIAR?", "text": "Si eres nutricionista y todavia **dependes 100% del boca a boca** para que te lleguen pacientes nuevos"},
+    {"type": "text", "lines": ["Algunos meses te recomiendan", "**mucho y te va bien.**"], "sub": "Otros meses nadie te nombra y no tienes idea por que."},
+    {"type": "text", "lines": ["El problema no es tu trabajo,", "**es que no puedes predecirlo.**"], "sub": "No sabes si el mes que viene vas a tener agenda llena o vacia."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "El boca a boca es un buen complemento, **pero no una estrategia** - por eso partimos preguntando cuantos pacientes necesitas al mes", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender **de que te nombren,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
