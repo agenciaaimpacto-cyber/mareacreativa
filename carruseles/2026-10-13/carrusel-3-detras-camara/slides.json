@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de armar una campana para un profesor particular, **no partimos por el aviso**"},
+    {"type": "text", "lines": ["Partimos por entender el negocio:", "**que clases haces, cuantos alumnos necesitas**"], "sub": "cuanto puedes invertir y que tendria que pasar para que valga la pena."},
+    {"type": "stat", "number": "4", "unit": "preguntas", "text": "simples que respondemos **antes de prender cualquier campana**"},
+    {"type": "proof", "tag": "POR QUE LO HACEMOS ASI", "text": "Sin esas respuestas, **cualquier campana es tirar plata** a ver que pasa", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres partir por tu negocio **y no por un paquete generico,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Estrategia primero, anuncios despues."}
+  ]
+}

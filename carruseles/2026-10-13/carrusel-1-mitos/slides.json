@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "Si eres gasfiter y crees que **te van a escribir puros curiosos,** no estas tan equivocado -- si la campana esta mal hecha"},
+    {"type": "text", "lines": ["Es real: si no segmentas,", "**te llegan puras cotizaciones de curiosos**"], "sub": "que preguntan precio y nunca contestan de nuevo."},
+    {"type": "stat", "number": "3", "unit": "preguntas", "text": "de segmentacion que hacen **la diferencia entre curiosos y clientes**"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "A quien le hablas, en que zona y con que problema especifico **cambia quien te escribe**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te lleguen **clientes de verdad, no curiosos,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por prender un boton."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META DE VERDAD", "text": "Si trabajas en refrigeracion, esto no es sobre **atender la ciudad entera**"},
+    {"type": "text", "lines": ["Es sobre tener cotizaciones suficientes", "**para no quedarte sin pega**"], "sub": "ningun mes del ano, ni siquiera en temporada baja."},
+    {"type": "stat", "number": "1", "unit": "pregunta", "text": "define todo: **cuantos trabajos necesitas al mes** para vivir tranquilo"},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de **trabajar mas horas,** se trata de que te encuentren cuando se necesita", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres la agenda llena **sin depender de la suerte,** escribenos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
