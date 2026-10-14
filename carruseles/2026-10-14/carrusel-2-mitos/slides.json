@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "Si tienes una tienda de ropa y crees que hacer publicidad **te va a llenar de mensajes de gente que solo mira precio,** tiene sentido pensarlo"},
+    {"type": "text", "lines": ["Ya te ha pasado sin publicidad:", "**entra gente a mirar,**"], "sub": "pregunta el precio y se va sin comprar nada."},
+    {"type": "text", "lines": ["Pero eso no es un problema", "**de hacer publicidad,**"], "sub": "es un problema de a quien le estas hablando y con que mensaje."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Segmentamos por zona, por estilo y por quien de verdad compra, **no por quien solo mira**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te lleguen **clientas que compran, no que solo miran,** escribenos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

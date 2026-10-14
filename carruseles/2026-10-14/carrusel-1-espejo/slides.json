@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si tienes una veterinaria y te quedas mirando el Instagram de otra consulta que **se ve mas movida,** preguntandote que estan haciendo distinto"},
+    {"type": "text", "lines": ["Capaz no es que a ellos", "**les vaya mejor que a ti.**"], "sub": "Es que suben mas fotos y tu no tienes forma real de comparar los numeros."},
+    {"type": "text", "lines": ["El problema no es tu consulta,", "**es que estas comparando perfiles,**"], "sub": "no resultados - y eso no te dice nada de lo que realmente necesitas."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No miramos cuantos likes tiene la competencia, **miramos cuantos pacientes nuevos necesitas tu** al mes", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de compararte **y empezar a construir lo tuyo,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

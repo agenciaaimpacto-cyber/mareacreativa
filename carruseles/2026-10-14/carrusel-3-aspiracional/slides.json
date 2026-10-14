@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META DE VERDAD", "text": "Si eres entrenador personal, esto no es sobre **llenarte de alumnos nuevos cada semana**"},
+    {"type": "text", "lines": ["Es sobre tener los cupos", "**justos para vivir de esto**"], "sub": "sin que el mes que viene dependa de quien se acuerde de ti."},
+    {"type": "stat", "number": "1", "unit": "pregunta", "text": "cambia todo: **cuantos cupos nuevos necesitas al mes** para que te haga sentido"},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de ser **el entrenador mas conocido del barrio,** se trata de tener agenda estable", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres cupos estables **sin depender de la suerte,** escribenos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
