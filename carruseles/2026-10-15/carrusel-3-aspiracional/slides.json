@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES LO QUE CREES", "text": "Si eres nutricionista, esto no es sobre **llenar la sala de espera** todos los dias"},
+    {"type": "text", "lines": ["Es sobre tener **las horas justas** ocupadas", "las que de verdad te acomodan en tu semana."], "sub": "No se trata de atender a todo el que llame, sino de elegir con quien trabajas."},
+    {"type": "text", "lines": ["No necesitas mil pacientes nuevos,", "**necesitas los suficientes** para armar tu agenda como quieres."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Primero preguntamos **cuantos pacientes necesitas** y en que horarios, despues armamos la campana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres una agenda que te acomode a ti, **y no al reves,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

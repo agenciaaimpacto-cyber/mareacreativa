@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO COMUN", "text": "Antes de hacer publicidad para mi taller mecanico, **tengo que dejarlo impecable** -- pintado, ordenado, con letrero nuevo"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi.", "**Nadie quiere mostrar algo** a medio terminar."], "sub": "Pero esperar a que todo este perfecto puede significar esperar meses sin generar ni un cliente nuevo."},
+    {"type": "text", "lines": ["La publicidad y el orden del taller", "**pueden avanzar al mismo tiempo,**"], "sub": "no uno despues del otro."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Muchos negocios **ya generan resultados con lo que tienen hoy,** mientras se va mejorando el resto en paralelo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si tu taller ya resuelve, **no tienes que esperar para mostrarlo.**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos sobre tu negocio tal como esta hoy."}
+  ]
+}

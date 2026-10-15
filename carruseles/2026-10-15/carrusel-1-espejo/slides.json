@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si fabricas o instalas portones y vives **esperando que alguien te recomiende,** sin saber si el proximo mes van a salir cotizaciones"},
+    {"type": "text", "lines": ["No es que trabajes mal.", "**Es que dependes de la suerte** del boca a boca."], "sub": "Un mes te recomiendan tres clientes, al otro mes ninguno, y no tienes como saber cual va a tocar."},
+    {"type": "text", "lines": ["El problema no es tu trabajo,", "**es que nadie nuevo te esta encontrando**"], "sub": "fuera del circulo que ya te conoce."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos poniendo un aviso. Partimos preguntando **cuantas cotizaciones necesitas al mes** para no quedarte sin pega", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender solo de la suerte **y tener algo mas estable,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
