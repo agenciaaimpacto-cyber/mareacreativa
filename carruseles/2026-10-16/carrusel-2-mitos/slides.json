@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO COMUN", "text": "Si das clases particulares y sientes que hacer publicidad **es como vender humo,** porque el resultado final depende del alumno, no estas tan equivocado"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi.", "**Nadie puede prometer una nota.**"], "sub": "Pero la publicidad no promete notas, promete que te encuentren las familias que buscan justo las clases que haces."},
+    {"type": "text", "lines": ["Lo que vendes no es el resultado final,", "**es el espacio y el metodo** para llegar a el."], "sub": "Esa es la diferencia entre prometer un milagro y ofrecer ayuda real."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Hablamos de lo que si controlas: **tu metodo, tu disponibilidad y a quien le hablas,** no de lo que no controlas", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te encuentren las familias correctas, **sin prometer lo que no depende de ti,** escribenos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

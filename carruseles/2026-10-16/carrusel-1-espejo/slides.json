@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si tienes una peluqueria o barberia y el **lunes y martes se te vacia la agenda,** aunque el resto de la semana ande llena"},
+    {"type": "text", "lines": ["Capaz no es un problema", "**de la calidad de tu trabajo.**"], "sub": "Es que esos dias nadie se acuerda de pedir hora, y tu no tienes como traerlos de vuelta."},
+    {"type": "text", "lines": ["Llenar el sabado no es el problema,", "**llenar los dias flojos si lo es.**"], "sub": "Y eso no se arregla solo subiendo mas fotos a Instagram."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos llenando toda la semana, **partimos preguntando que dias necesitas llenar** y para cuantos clientes", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres parejar tu semana **y no depender solo del sabado,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

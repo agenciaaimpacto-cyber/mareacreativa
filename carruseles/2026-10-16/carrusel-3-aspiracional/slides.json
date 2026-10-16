@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META DE VERDAD", "text": "Si eres gasfiter, esto no es sobre **atender a todo el que llame**"},
+    {"type": "text", "lines": ["Es sobre tener los trabajos", "**justos para no andar corriendo**"], "sub": "de una urgencia a otra sin saber cuanto vas a ganar este mes."},
+    {"type": "stat", "number": "1", "unit": "pregunta", "text": "cambia todo: **cuantos trabajos necesitas al mes** para vivir tranquilo, no apurado"},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de **tomar cualquier pega,** se trata de tener suficientes trabajos buenos para elegir", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres trabajos estables **y no solo urgencias,** escribenos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
