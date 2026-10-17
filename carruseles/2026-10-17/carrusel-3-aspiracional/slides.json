@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES LO QUE CREES", "text": "Si tienes una veterinaria, esto no es sobre **llenar la sala de espera** de lunes a sabado"},
+    {"type": "text", "lines": ["Es sobre llegar a fin de mes", "**sin la ansiedad de si va a alcanzar.**"], "sub": "No se trata de atender mas mascotas, sino de tener los pacientes justos para que tu numero cierre tranquilo."},
+    {"type": "text", "lines": ["No necesitas que te conozca toda la ciudad,", "**necesitas que te encuentren los dueños correctos,** en el momento correcto."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Primero preguntamos **cuanto necesitas facturar** y cuantas consultas son esas, despues armamos la campana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un fin de mes tranquilo, **y no una sala de espera infinita,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

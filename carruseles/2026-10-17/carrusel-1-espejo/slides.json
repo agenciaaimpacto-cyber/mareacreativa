@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si eres podologa y **dependes 100% de que te recomienden,** sin saber si el proximo mes va a ser bueno o flojo"},
+    {"type": "text", "lines": ["No es que trabajes mal.", "**Es que no tienes como traer pacientes** cuando el boca a boca se queda callado."], "sub": "Y asi es dificil planificar cualquier cosa, desde comprar insumos hasta sacar vacaciones."},
+    {"type": "text", "lines": ["Un mes bueno no significa", "**que el que viene tambien lo sea.**"], "sub": "Mientras dependas solo de que alguien se acuerde de ti, vas a seguir adivinando."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendo pacientes nuevos, **partimos preguntando cuantos necesitas** y en que semanas", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de adivinar como viene el mes, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

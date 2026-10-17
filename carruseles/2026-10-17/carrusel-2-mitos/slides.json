@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO COMUN", "text": "Si tienes una tienda de ropa y crees que **ya probaste con publicidad y no funciono,** puede ser que nunca hiciste una campana de verdad"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi", "**si lo unico que hiciste fue apretar promocionar.**"], "sub": "Ese boton muestra tu publicacion a mas gente, pero sin definir a quien le hablas ni que esperas lograr."},
+    {"type": "text", "lines": ["Una campana real parte distinto:", "**primero se define a quien, con que mensaje,** y se le hace seguimiento."], "sub": "No es magia, es tener un plan antes de poner la plata."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Antes de invertir un peso, preguntamos **que vendes, a quien y cuanto puedes invertir,** y de ahi armamos la estrategia", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo de verdad esta vez, **y no solo apretar un boton,** escribenos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
