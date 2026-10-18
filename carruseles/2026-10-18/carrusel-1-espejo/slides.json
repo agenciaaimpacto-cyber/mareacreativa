@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si eres agente de seguros y el mes empezo bien, pero **de la nada se enfria** sin que sepas por que"},
+    {"type": "text", "lines": ["No fue que dejaste de trabajar.", "**Simplemente nadie nuevo te encontro** esa semana."], "sub": "Y asi es imposible saber si el mes que viene va a ser de los buenos o de los flojos."},
+    {"type": "text", "lines": ["Revisas tus numeros de siempre:", "**llamadas, referidos, el boca a boca.**"], "sub": "Pero ninguno te avisa con anticipacion cuando se va a secar."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote polizas nuevas, **partimos preguntando cuantos clientes necesitas** cada mes para que el numero cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de adivinar como viene el mes, **hablemos de tu cartera.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

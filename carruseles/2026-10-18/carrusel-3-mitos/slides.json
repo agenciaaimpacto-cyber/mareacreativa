@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN MITO COMUN", "text": "Si arreglas notebooks y crees que **primero necesitas una web nueva y un logo** antes de hacer publicidad, tiene sentido pensarlo asi"},
+    {"type": "text", "lines": ["Nadie quiere mostrarse", "**a medio armar.**"], "sub": "Pero esperar a que todo quede perfecto puede significar meses sin un cliente nuevo mientras lo arreglas."},
+    {"type": "text", "lines": ["Muchos negocios generan clientes", "**con lo que ya tienen hoy,**"], "sub": "mientras ordenan la web y el logo en paralelo, no antes."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Partimos con lo que tu negocio tiene ahora **y armamos la campana sobre eso,** no sobre lo que falta", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres partir ahora **y no cuando todo este perfecto,** escribenos.", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

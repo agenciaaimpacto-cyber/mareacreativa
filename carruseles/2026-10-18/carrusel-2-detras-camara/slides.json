@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de armar una campana para quien organiza eventos o matrimonios, **no partimos por las fotos bonitas**"},
+    {"type": "text", "lines": ["Partimos por algo mas simple:", "**en que meses se concentran tus eventos** y cuantos puedes tomar a la vez"], "sub": "sin que se te junten dos matrimonios el mismo fin de semana."},
+    {"type": "text", "lines": ["Con eso definimos a quien le hablamos,", "**en que momento del ano** y con que mensaje."], "sub": "Antes de pensar en un solo video o una sola foto."},
+    {"type": "proof", "tag": "POR QUE LO HACEMOS ASI", "text": "Promocionar una publicacion le muestra tu trabajo a cualquiera, **una campana real le habla a quien ya esta cotizando** su evento", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres llenar tu calendario de eventos **sin que se te crucen fechas,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Estrategia primero, anuncios despues."}
+  ]
+}
