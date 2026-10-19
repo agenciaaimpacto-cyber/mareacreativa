@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de armar una campana para una **nutricionista independiente,** no partimos por la foto del plato perfecto"},
+    {"type": "text", "lines": ["Partimos por algo mas simple:", "**cuantas consultas necesitas** a la semana para que el mes te acomode"], "sub": "sin llenarte de pacientes que despues no vas a poder atender bien."},
+    {"type": "text", "lines": ["Con eso definimos a quien le hablamos,", "**en que momento** y con que mensaje."], "sub": "Antes de pensar en un solo posteo."},
+    {"type": "proof", "tag": "POR QUE LO HACEMOS ASI", "text": "Promocionar una publicacion le muestra tu trabajo a cualquiera, **una campana real le habla a quien ya esta buscando** un cambio de habitos", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres llenar tu agenda **con los pacientes justos,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Estrategia primero, anuncios despues."}
+  ]
+}

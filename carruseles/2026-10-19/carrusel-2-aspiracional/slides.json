@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES LO QUE CREES", "text": "Si fabricas o instalas portones, esto no es sobre **tener pega para la ciudad entera**"},
+    {"type": "text", "lines": ["Es sobre tener las cotizaciones justas", "**para no quedarte sin trabajo ningun mes.**"], "sub": "No se trata de cuantos presupuestos mandas, sino de cuantos se concretan."},
+    {"type": "text", "lines": ["No necesitas que te conozca todo el pueblo,", "**necesitas que te encuentren justo cuando** alguien esta construyendo o cambiando el porton."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Primero preguntamos **cuantas pegas necesitas al mes** para que el numero te acomode, despues armamos la campana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un calendario de pegas parejo, **y no puro febrero sin nada,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

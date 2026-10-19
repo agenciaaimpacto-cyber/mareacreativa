@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si tienes un **taller mecanico** y sientes que trabajar mas horas **no esta resolviendo nada**"},
+    {"type": "text", "lines": ["No es un problema de esfuerzo.", "**Es que no te estan encontrando** los autos que necesitas arreglar."], "sub": "Puedes tener el taller lleno un mes y vacio al otro, sin que cambie como trabajas."},
+    {"type": "text", "lines": ["Revisas las senales de siempre:", "**clientes fijos, recomendados, el que pasa por la calle.**"], "sub": "Pero ninguna te avisa con anticipacion cuando se va a secar."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote el taller lleno, **partimos preguntando cuantos autos necesitas** entrar cada semana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de adivinar cuantos autos van a llegar, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
