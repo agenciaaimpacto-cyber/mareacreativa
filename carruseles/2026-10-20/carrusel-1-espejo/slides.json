@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si tienes una **peluqueria o barberia** y todo depende de que te recomienden, sabes lo que se siente cuando se corta la racha"},
+    {"type": "text", "lines": ["Un mes tienes la agenda llena", "**y al otro, silencio.**"], "sub": "No cambiaste nada en como cortas o atiendes. Simplemente la recomendacion no llego esta vez."},
+    {"type": "text", "lines": ["No puedes planificar nada", "**si no sabes que viene.**"], "sub": "Ni comprar productos con anticipacion, ni saber si conviene sumar otra silla."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote el salon lleno, **partimos preguntando cuantas clientas necesitas** a la semana para que el mes te cierre bien", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender solo de la recomendacion, **hablemos de tu salon.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

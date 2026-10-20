@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de prender una campana para un **agente de seguros**, no partimos por el diseno del aviso"},
+    {"type": "text", "lines": ["Primero pensamos", "**a quien le hablamos.**"], "sub": "No es lo mismo alguien que recien compro auto que alguien que esta por renovar una poliza."},
+    {"type": "text", "lines": ["Despues, en que momento", "**le tiene sentido verlo.**"], "sub": "Y con que mensaje, segun donde esta esa persona hoy, no un aviso generico para todos."},
+    {"type": "proof", "tag": "ASI LO ARMAMOS", "text": "Una campana sin esto es **un aviso bonito tirado al aire.** Con esto, es una conversacion con la persona correcta", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres armar una campana con sentido, **hablemos de tu correduria.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por venderte nada."}
+  ]
+}

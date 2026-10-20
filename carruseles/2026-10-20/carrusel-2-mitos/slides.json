@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "\"Si doy clases particulares, primero necesito una pagina web y un logo antes de hacer publicidad\""},
+    {"type": "text", "lines": ["Tiene sentido pensarlo asi", "**si quieres verte profesional.**"], "sub": "Nadie quiere promocionarse con algo que sienta a medio hacer."},
+    {"type": "text", "lines": ["Pero esperar a que todo", "**quede perfecto, tiene un costo.**"], "sub": "Semanas o meses sin un alumno nuevo, mientras ordenas detalles que pueden esperar."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Muchos profesores consiguen alumnos nuevos **con lo que ya tienen hoy**, mientras la web y el resto se ordenan en paralelo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Cuentanos que clases das y **vemos por donde partir.**", "button": "Escribenos por WhatsApp ->", "sub": "Sin compromiso, sin letra chica."}
+  ]
+}
