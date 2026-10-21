@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO O REALIDAD?", "text": "Si arreglas notebooks y **ya probaste poner plata en Facebook y no funciono,** tiene sentido pensar que la publicidad no sirve para tu negocio"},
+    {"type": "text", "lines": ["Perder plata en algo que no entendiste", "**duele de verdad.**"], "sub": "No es que hayas hecho algo mal a proposito, es que casi nadie te explica la diferencia."},
+    {"type": "text", "lines": ["Apretar 'promocionar publicacion'", "**no es lo mismo que una campana real.**"], "sub": "Sin saber a quien le hablas ni hacer seguimiento, es tirar la plata a ciegas."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Una campana real parte definiendo **a quien le hablamos, en que momento y con que mensaje,** y se revisa semana a semana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo de nuevo pero esta vez **con estrategia detras,** conversemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

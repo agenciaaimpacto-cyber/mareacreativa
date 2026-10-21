@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de armar una campana para quien organiza **eventos o matrimonios,** no partimos apretando el boton de promocionar"},
+    {"type": "text", "lines": ["Promocionar una publicacion", "**le llega a cualquiera que pase cerca.**"], "sub": "Gente que nunca se va a casar este ano tambien termina viendo tu aviso."},
+    {"type": "text", "lines": ["Una campana real parte distinto:", "**a quien le hablamos y en que momento.**"], "sub": "No es lo mismo hablarle a alguien que recien se comprometio que a alguien que ya esta cotizando proveedores."},
+    {"type": "proof", "tag": "4 PREGUNTAS", "text": "Que vendes, cuantos clientes necesitas, cuanto puedes invertir **y que tendria que pasar** para que valga la pena -- eso viene primero", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si organizas eventos y quieres cotizaciones de verdad, **no solo likes,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
