@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de armar una campana para una **veterinaria con consulta propia,** no partimos eligiendo la foto mas bonita de una mascota"},
+    {"type": "text", "lines": ["Partimos por algo mas simple:", "**que tipo de consulta necesitas llenar** -- urgencias, vacunas, controles"], "sub": "No es lo mismo atraer una urgencia a las 11 de la noche que una consulta de rutina."},
+    {"type": "text", "lines": ["Con eso definimos a quien le hablamos,", "**en que momento y con que mensaje.**"], "sub": "Antes de pensar en un solo posteo o video."},
+    {"type": "proof", "tag": "4 PREGUNTAS", "text": "Que vendes, cuantos clientes necesitas, cuanto puedes invertir **y que tendria que pasar** para que valga la pena -- eso viene primero", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si tienes consulta veterinaria y quieres pacientes de verdad, **no solo likes,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

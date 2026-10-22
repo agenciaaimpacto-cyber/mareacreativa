@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES LO QUE CREES", "text": "Si tienes un taller mecanico, esto no es sobre **tener el taller lleno todos los dias**"},
+    {"type": "text", "lines": ["Es sobre tener los autos justos", "**entrando cada semana** para que el mes te cierre tranquilo"], "sub": "No se trata de competir con el taller grande de la esquina, sino de que te encuentren los que ya te necesitan."},
+    {"type": "text", "lines": ["No necesitas que te conozca toda la ciudad,", "**necesitas que te encuentren justo cuando** el auto se les echo a perder."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Partimos preguntando **cuantos vehiculos necesitas** a la semana para que el taller funcione, no cuantos te gustaria tener", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de tener semanas llenas y semanas vacias, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

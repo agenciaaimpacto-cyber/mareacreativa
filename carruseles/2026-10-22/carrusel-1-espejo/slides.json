@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si arreglas aires acondicionados o refrigeracion y el telefono suena seguido en verano, pero en invierno **se queda en silencio semanas enteras**"},
+    {"type": "text", "lines": ["No es que la gente deje de necesitar tu trabajo.", "**Es que no saben que sigues trabajando** fuera de la temporada alta."], "sub": "Un refrigerador que se descompone no espera a que llegue el calor."},
+    {"type": "text", "lines": ["Revisas el celular cada rato", "**esperando que llegue un llamado nuevo.**"], "sub": "Y cuando no llega, no sabes si es porque no hay pega o porque no te estan viendo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote pega todos los dias, **partimos viendo en que meses se te vacia** para ahi enfocar la publicidad", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de vivir solo de la temporada alta, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
