@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si eres nutricionista independiente y una semana tienes la agenda llena, pero la siguiente **no suena el telefono**"},
+    {"type": "text", "lines": ["No es que la gente haya dejado de necesitar comer mejor.", "**Es que no saben que estas disponible** esta semana."], "sub": "Un paciente nuevo no espera a que vuelvas a estar de moda en el barrio."},
+    {"type": "text", "lines": ["Revisas el Instagram de otra nutricionista", "**y se ve mas movida que tu,** aunque no sabes si de verdad le esta yendo mejor."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote pacientes todos los dias, **partimos viendo en que semanas se te vacia** para ahi enfocar la publicidad", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de vivir de semana en semana, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

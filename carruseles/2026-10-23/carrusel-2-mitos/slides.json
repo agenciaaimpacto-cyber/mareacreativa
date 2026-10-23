@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes una peluqueria o barberia y **ya pusiste plata en Facebook y no funciono**"},
+    {"type": "text", "lines": ["Perder plata duele,", "**y mas si nadie te explico bien que estabas haciendo.**"], "sub": "Apretar el boton de promocionar no es lo mismo que armar una campana con estrategia."},
+    {"type": "text", "lines": ["El problema no es la publicidad.", "**Es no saber a quien le estabas hablando,** ni cuando, ni con que mensaje."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Antes de prender cualquier campana, vemos **a quien le hablamos y en que momento** la gente busca un corte o un color", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres volver a intentarlo, pero bien hecho, **hablemos de tu local.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

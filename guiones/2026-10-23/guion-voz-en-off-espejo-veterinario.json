@@ -1,0 +1,13 @@
+{
+  "formato": "voz_en_off",
+  "pilar": "espejo",
+  "titulo": "La sala de espera llena una semana y vacia la siguiente",
+  "hook": "Si tienes una veterinaria con consulta propia, conoces esta sensacion.",
+  "desarrollo": [
+    "Una semana la sala de espera no para, y la que viene, el telefono se queda en silencio.",
+    "No es que las mascotas de tu zona hayan dejado de enfermarse o necesitar control.",
+    "Es que no saben que estas disponible esta semana, y terminan yendo a la clinica que primero encontraron."
+  ],
+  "cta": "Si esto te paso este mes, escribenos. Partimos por entender tu consulta, no por venderte nada.",
+  "notas_produccion": "Visuales sugeridos: sala de espera vacia vs. llena, telefono sin notificaciones, cortar de plano cada 2-3 segundos siguiendo el ritmo del texto en pantalla."
+}
