@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si eres **podologa** y le tienes miedo a abrir la agenda de la semana que viene"},
+    {"type": "text", "lines": ["Una semana tienes la consulta llena de principio a fin.", "**Y la que sigue, el telefono no suena.**"], "sub": "No es que la gente haya dejado de necesitar cuidarse los pies."},
+    {"type": "text", "lines": ["Miras el Instagram de otra podologa", "**y parece que a ella si le llegan pacientes todas las semanas.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote la agenda llena todo el mes, **partimos viendo en que semanas se te vacia** para ahi poner la publicidad", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si esto te paso este mes, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

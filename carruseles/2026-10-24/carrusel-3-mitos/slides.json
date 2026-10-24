@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si organizas **eventos y matrimonios** y ya pusiste plata en Facebook y no funciono, entendemos la desconfianza"},
+    {"type": "text", "lines": ["Perder plata en publicidad duele,", "**y mas cuando no sabes bien en que se fue.**"], "sub": "El problema casi nunca es la plataforma."},
+    {"type": "text", "lines": ["Apretar 'promocionar publicacion'", "**no es lo mismo que una campana** con segmentacion y seguimiento."], "sub": ""},
+    {"type": "proof", "tag": "EL MATIZ", "text": "No es lo mismo mostrarle tu post a cualquiera, **que mostrarselo a quien esta planificando su matrimonio este año**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo **bien hecho esta vez,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por entender tu negocio, no por prometerte nada."}
+  ]
+}

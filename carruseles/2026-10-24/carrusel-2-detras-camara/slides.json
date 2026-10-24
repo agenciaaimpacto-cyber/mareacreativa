@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI TRABAJAMOS", "text": "Si tienes un **taller mecanico** y ya le diste al boton de promocionar publicacion, esto es para ti"},
+    {"type": "text", "lines": ["Promocionar una publicacion no es lo mismo", "que armar **una campana con objetivo y seguimiento.**"], "sub": "Uno le muestra tu post a mas gente al azar. El otro busca a quien de verdad necesita tu taller."},
+    {"type": "text", "lines": ["Antes de prender cualquier campana", "te preguntamos **que tipo de trabajo quieres mas** (mantenciones, diagnostico, convenios)."], "sub": ""},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **4 preguntas**: que vendes, cuantos clientes necesitas, cuanto puedes invertir y que tendria que pasar para que valga la pena", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de **adivinar con el boton de promocionar,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada todavia."}
+  ]
+}
