@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si tienes una **tienda de ropa** y te quedas mirando el Instagram de la competencia"},
+    {"type": "text", "lines": ["Parece que a ellos **siempre les llega gente nueva,**", "y tu no sabes si es cierto o solo se ve asi."], "sub": "Puede que a ellos les vaya tan irregular como a ti, solo que no se nota en las fotos."},
+    {"type": "text", "lines": ["El problema no es que falte ropa buena en tu local.", "**Es que no sabes cuanta gente nueva necesitas** cada semana para que el mes te cierre bien."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos comparandote con nadie, **partimos viendo cuantos clientes necesitas tu,** no cuantos parece tener el de al lado", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de compararte y **enfocarte en tu numero,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de armar una campana para una **nutricionista independiente,** no partimos apretando el boton de promocionar"},
+    {"type": "text", "lines": ["Promocionar una publicacion", "**le muestra tu post a cualquiera** que este cerca, le interese o no"], "sub": "Una campana real parte por otro lado."},
+    {"type": "text", "lines": ["Primero vemos a quien le hablamos,", "**en que momento busca nutricionista** y con que mensaje le hace sentido escribirte"], "sub": "Eso se revisa semana a semana, no se deja al azar."},
+    {"type": "proof", "tag": "4 PREGUNTAS", "text": "Que vendes, cuantos pacientes necesitas, cuanto puedes invertir **y que tendria que pasar** para que valga la pena -- eso viene primero", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres pacientes de verdad, **no solo likes,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

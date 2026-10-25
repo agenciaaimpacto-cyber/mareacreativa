@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **entrenador personal** y te da miedo que la publicidad te llene de mensajes de gente que nunca va a contratarte"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo.", "**Si nadie filtra a quien le hablas,** te va a escribir cualquiera."], "sub": "Eso pasa cuando se promociona sin pensar antes a quien le estas hablando."},
+    {"type": "text", "lines": ["El problema no es hacer publicidad.", "**Es no haber definido antes a quien le hablas,** en que momento y con que mensaje."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Antes de prender cualquier campana, definimos **a quien le hablamos** para que te lleguen personas que de verdad quieren entrenar contigo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres mensajes de gente que si califica, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
