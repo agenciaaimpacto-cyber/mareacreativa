@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES LO QUE CREES", "text": "Si tienes una **veterinaria con consulta propia,** esto no es sobre tener la sala de espera llena todos los dias"},
+    {"type": "text", "lines": ["Es sobre tener las consultas justas", "**agendadas cada semana** para que el mes te cierre tranquilo"], "sub": "No se trata de atender a todas las mascotas de la ciudad."},
+    {"type": "text", "lines": ["Cuando sabes cuantas consultas necesitas,", "**dejas de depender de que algun dueno se acuerde de ti.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Por eso antes de armar una campana preguntamos **cuantas consultas necesitas,** no cuantas te gustaria tener", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un mes sin la ansiedad de **si va a alcanzar,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

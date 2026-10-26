@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si eres **agente de seguros** y revisas el Instagram de otro agente que siempre parece tener clientes nuevos"},
+    {"type": "text", "lines": ["A el se le ve la agenda llena en cada story,", "**y tu no sabes si en verdad le va mejor** o solo se ve asi."], "sub": "Las redes muestran lo que alguien decide mostrar, no como le esta yendo en realidad."},
+    {"type": "text", "lines": ["El problema no es que vendas mal un seguro.", "**Es no saber cuantas cotizaciones necesitas** cada semana para que el mes cierre tranquilo."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos mirando a la competencia, **partimos viendo cuantos clientes necesitas tu** para cumplir tu meta del mes", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de compararte y **enfocarte en tu numero,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por lo que publica el de al lado."}
+  ]
+}

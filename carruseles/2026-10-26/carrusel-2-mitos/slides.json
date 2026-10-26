@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si fabricas o instalas **portones** y crees que primero necesitas un catalogo bonito y una pagina web antes de hacer publicidad"},
+    {"type": "text", "lines": ["Tiene sentido querer verte profesional", "**antes de mostrarte a mas gente.**"], "sub": "Nadie quiere promocionarse y que se note que recien esta empezando."},
+    {"type": "text", "lines": ["Pero muchos negocios consiguen clientes", "**con fotos reales de trabajos ya hechos,** mientras se ordena el resto en paralelo."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No esperamos a que todo este perfecto, **partimos con lo que ya tienes** y vamos mejorando sobre la marcha", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si tienes trabajos para mostrar, **ya tienes con que partir.**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}
