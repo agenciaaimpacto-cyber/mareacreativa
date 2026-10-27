@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes un **taller mecanico** y te metes al Instagram de otro taller que se ve mas movido que el tuyo"},
+    {"type": "text", "lines": ["Es facil pensar que a ellos", "**les esta yendo mejor que a ti.**"], "sub": "Pero una cuenta activa no es lo mismo que un taller lleno."},
+    {"type": "text", "lines": ["Puede que solo suban mas contenido,", "**y tu agenda este igual de bien o mejor.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Por eso no miramos a la competencia primero, **miramos tu agenda y cuantos autos necesitas** por semana", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Dejemos de comparar y veamos **que necesita tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

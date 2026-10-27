@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **gasfiter** y ya pusiste plata en Facebook una vez y no paso nada"},
+    {"type": "text", "lines": ["Perder esa plata duele,", "**mas cuando no sabes en que se fue.**"], "sub": "Es normal no querer repetir eso."},
+    {"type": "text", "lines": ["Pero apretar el boton de promocionar", "**no es lo mismo que armar una campana** con segmentacion y seguimiento."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Antes de gastar un peso, **definimos a quien le hablamos** y que tendria que pasar para que valga la pena", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo de nuevo pero **bien hecho,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada todavia."}
+  ]
+}

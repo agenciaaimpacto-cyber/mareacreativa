@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES LO QUE CREES", "text": "Si haces **eventos y matrimonios,** esto no es sobre tener la agenda llena todo el ano"},
+    {"type": "text", "lines": ["Es sobre tener las fechas justas", "**reservadas con anticipacion,** sin depender de que alguien te recomiende a ultima hora"], "sub": "No se trata de hacer cien eventos al mes."},
+    {"type": "text", "lines": ["Cuando sabes cuantos eventos necesitas,", "**dejas de vivir a la suerte del boca a boca.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Por eso antes de armar una campana preguntamos **cuantos eventos necesitas,** no cuantos te gustaria tener", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres tu agenda de fechas **resuelta con anticipacion,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
