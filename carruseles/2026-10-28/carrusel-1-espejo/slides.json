@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **tecnico en refrigeracion** y este mes vas bien pero no sabes si el que viene va a ser igual"},
+    {"type": "text", "lines": ["Vives pendiente del telefono,", "**esperando que alguien se acuerde de ti.**"], "sub": "Y cuando no suena, no sabes si es mala suerte o algo mas."},
+    {"type": "text", "lines": ["No es que te falte trabajo que hacer,", "**es que no puedes predecir cuando va a llegar.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Por eso no partimos prometiendo clientes, **partimos viendo cuantos trabajos necesitas** cada semana para que el mes te cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender solo del boca a boca, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu negocio."}
+  ]
+}

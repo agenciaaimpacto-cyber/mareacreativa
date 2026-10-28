@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes una **peluqueria o barberia** y piensas que primero necesitas un local nuevo o un logo mejor antes de hacer publicidad"},
+    {"type": "text", "lines": ["Tiene sentido querer verse profesional", "**antes de mostrarte.**"], "sub": "Nadie quiere invertir y que se vea a medias."},
+    {"type": "text", "lines": ["Pero muchos locales llenan su agenda", "**con lo que ya tienen hoy,** mientras lo demas se ordena en paralelo."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Partimos con **tu local tal como esta ahora** y vemos a quien le hablamos para llenar tus horas", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres partir con lo que ya tienes, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Conversemos primero sobre tu negocio."}
+  ]
+}

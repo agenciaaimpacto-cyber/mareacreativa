@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Antes de armar una campana para el que **arregla notebooks,** no partimos contando cuantos clientes le gustaria tener"},
+    {"type": "text", "lines": ["Partimos preguntando", "**cuantos equipos necesitas** entrar a la semana"], "sub": "No cuantos quisieras, los que de verdad necesitas para que el mes funcione."},
+    {"type": "text", "lines": ["Esa respuesta cambia todo:", "**a quien le hablamos y con que mensaje.**"], "sub": "Eso se revisa semana a semana, no se deja al azar."},
+    {"type": "proof", "tag": "4 PREGUNTAS", "text": "Que vendes, cuantos clientes necesitas, cuanto puedes invertir **y que tendria que pasar** para que valga la pena -- eso viene primero", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres responder esas preguntas para tu caso, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
