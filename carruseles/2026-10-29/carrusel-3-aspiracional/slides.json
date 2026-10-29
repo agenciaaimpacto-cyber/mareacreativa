@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES SOBRE TENER CIENTOS", "text": "Si eres **entrenador personal**, esto no es sobre llenar el gimnasio de desconocidos"},
+    {"type": "text", "lines": ["Es sobre tener", "**los cupos justos llenos**"], "sub": "en los horarios que de verdad quieres entrenar."},
+    {"type": "text", "lines": ["No se trata de crecer como sea,", "**se trata de llegar a tu meta.**"], "sub": "La que tiene sentido para tu agenda, no para una vitrina."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Por eso partimos viendo **cuantos alumnos necesitas** cada semana, no cuantos te gustaria tener en una foto", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres llenar tus horarios de verdad, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu negocio."}
+  ]
+}

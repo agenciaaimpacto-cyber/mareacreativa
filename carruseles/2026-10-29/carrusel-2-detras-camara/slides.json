@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Si tienes clases particulares, no partimos preguntando cuanta plata quieres gastar en publicidad"},
+    {"type": "text", "lines": ["Partimos preguntando", "**cuantos alumnos nuevos necesitas**"], "sub": "al mes, para que te alcance y no te sobrepases."},
+    {"type": "stat", "number": "4", "unit": "preguntas", "text": "respondemos antes de armar **cualquier campana**"},
+    {"type": "proof", "tag": "LAS 4 PREGUNTAS", "text": "Que vendes, cuantos alumnos necesitas, cuanto puedes invertir **y que tendria que pasar** para que valga la pena", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres armar tu campana asi, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tus clases, no vendiendote nada."}
+  ]
+}

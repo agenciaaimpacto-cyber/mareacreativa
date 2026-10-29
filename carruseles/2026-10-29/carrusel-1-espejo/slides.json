@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **gasfiter** y vives saltando de urgencia en urgencia sin saber que viene despues"},
+    {"type": "text", "lines": ["Resuelves la emergencia de hoy,", "**pero no sabes que va a pasar la semana que viene.**"], "sub": "Todo depende de quien se acuerde de ti justo cuando te necesita."},
+    {"type": "text", "lines": ["No es que te falte trabajo que hacer,", "**es que no puedes predecir cuando va a llegar.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Por eso no partimos prometiendo llamados, **partimos viendo cuantos trabajos necesitas** cada semana para que el mes te cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender solo del boca a boca, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu negocio."}
+  ]
+}
