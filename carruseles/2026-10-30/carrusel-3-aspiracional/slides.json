@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ESTO ES LO QUE BUSCAMOS", "text": "Si tienes un **taller mecanico**, esto no es sobre llenarte de autos como sea"},
+    {"type": "text", "lines": ["Es sobre tener suficiente trabajo entrando", "**para poder decir que no a un mal cliente.**"], "sub": "No el que paga menos, el que te hace perder el tiempo."},
+    {"type": "text", "lines": ["No se trata de trabajar para cualquiera.", "**Se trata de elegir con quien trabajar.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Por eso partimos viendo **cuantos autos necesitas** a la semana para elegir, no para sobrevivir", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres trabajar con los clientes que quieres, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

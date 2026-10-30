@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes una **tienda de ropa** y crees que primero necesitas un local nuevo o fotos profesionales antes de hacer publicidad"},
+    {"type": "text", "lines": ["Tiene sentido querer verte bien.", "**Pero eso no es lo que decide si te llega gente nueva.**"], "sub": "Muchos negocios generan resultados con lo que ya tienen, mientras ordenan el resto en paralelo."},
+    {"type": "text", "lines": ["El problema no es tu vitrina ni tus fotos.", "**Es que no sabes a quien le estas hablando.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos pidiendote que cambies tu local, **partimos viendo a quien le hablamos y con que mensaje**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres vender con lo que ya tienes, **hablemos de tu tienda.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}

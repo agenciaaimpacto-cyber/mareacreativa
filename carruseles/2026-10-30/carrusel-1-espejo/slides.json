@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TE HA PASADO?", "text": "Si tienes consulta veterinaria y revisas la agenda de manana **antes de dormir, solo para ver si hay algo agendado**"},
+    {"type": "text", "lines": ["Hay semanas con la sala llena,", "**y semanas que amanecen vacias.**"], "sub": "No cambiaste nada en como atiendes. El telefono simplemente no sono."},
+    {"type": "text", "lines": ["No es que la gente deje de tener mascotas,", "**es que no saben que estas disponible** esta semana."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote la sala llena, **partimos viendo en que semanas se te vacia** para ahi poner la publicidad", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de la suerte del boca a boca, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
