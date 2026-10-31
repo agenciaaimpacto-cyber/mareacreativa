@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **tecnico en refrigeracion** y dependes de que alguien se acuerde de ti justo cuando el equipo se echa a perder"},
+    {"type": "text", "lines": ["Hay meses que se llenan solos,", "**y meses que no sabes de donde van a salir.**"], "sub": "No cambiaste nada en como trabajas. Simplemente nadie te necesito esta semana."},
+    {"type": "text", "lines": ["No es que te falte oficio,", "**es que no te encuentran cuando te necesitan.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote llamados fijos, **partimos viendo cuantos trabajos necesitas** cada mes para que te cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de la suerte, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

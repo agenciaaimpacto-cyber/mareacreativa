@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Si tienes una **peluqueria o barberia**, no partimos subiendote el presupuesto en Instagram sin mas"},
+    {"type": "text", "lines": ["Partimos viendo", "**cuantos clientes nuevos necesitas**"], "sub": "a la semana, para que no te sobre ni te falte agenda."},
+    {"type": "stat", "number": "4", "unit": "preguntas", "text": "respondemos antes de armar **cualquier campana**"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Apretar **promocionar publicacion** no es lo mismo que una campana con objetivo, segmentacion **y seguimiento real**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres armar una campana de verdad, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu local, no vendiendote nada."}
+  ]
+}

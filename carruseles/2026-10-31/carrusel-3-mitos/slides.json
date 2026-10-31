@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si arreglas **notebooks** y crees que la publicidad solo te va a traer gente preguntando precio y arrancando"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo", "**si nunca segmentaste a quien le hablas.**"], "sub": "Eso es justo lo que separa un anuncio suelto de una campana real."},
+    {"type": "text", "lines": ["El problema no es mostrar tu trabajo,", "**es no filtrar quien lo ve.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos mostrandote a todo el mundo, **partimos viendo a quien le hablamos** y con que mensaje", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres clientes que si valoran tu pega, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos por tu negocio, no por un boton."}
+  ]
+}
