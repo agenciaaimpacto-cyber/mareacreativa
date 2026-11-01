@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **podologa** y revisas la agenda de manana antes de dormir, solo para ver si hay alguien"},
+    {"type": "text", "lines": ["Hay semanas con lista de espera,", "**y semanas donde el telefono no suena.**"], "sub": "No cambiaste nada en tu tecnica. Simplemente esta semana nadie te encontro."},
+    {"type": "text", "lines": ["No es que te falte buena mano,", "**es que no saben que existes cuando te necesitan.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote la agenda llena, **partimos viendo cuantos pacientes necesitas** a la semana para que te cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de que se acuerden de ti, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

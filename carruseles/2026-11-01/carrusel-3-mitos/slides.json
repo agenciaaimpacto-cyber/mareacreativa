@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si das **clases particulares** y crees que primero necesitas una pagina profesional antes de anunciarte"},
+    {"type": "text", "lines": ["Tiene sentido querer verte ordenado", "**antes de mostrarte.**"], "sub": "El instinto no esta mal. El orden de los pasos si."},
+    {"type": "text", "lines": ["Muchos profesores consiguen alumnos", "**con lo que ya tienen,** mientras se ordena el resto en paralelo."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No esperamos a que todo este perfecto, **partimos con lo que vendes hoy** y ajustamos en el camino", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres partir ahora, sin esperar a tener todo listo, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

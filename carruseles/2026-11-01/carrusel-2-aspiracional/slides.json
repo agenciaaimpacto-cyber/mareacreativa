@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si tienes una **tienda de ropa de barrio**, esto no es sobre salir en todas las redes"},
+    {"type": "text", "lines": ["Es sobre llegar a fin de mes", "**sin la pregunta de si va a alcanzar.**"], "sub": "No se trata de vender como sea. Se trata de saber cuantas ventas necesitas y conseguirlas."},
+    {"type": "text", "lines": ["No necesitas que te conozca todo el barrio,", "**necesitas que te encuentren los que si te van a comprar.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Partimos preguntando **cuanto necesitas vender** este mes, no cuanto te gustaria vender en un mundo ideal", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un mes **sin esa ansiedad de ultima semana,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
