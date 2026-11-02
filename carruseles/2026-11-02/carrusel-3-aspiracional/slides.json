@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si fabricas o instalas **portones**, esto no es sobre llenarte de cotizaciones imposibles"},
+    {"type": "text", "lines": ["Es sobre tener trabajo", "**suficiente para no quedarte sin pega ningun mes.**"], "sub": "No se trata de cotizar a todo el que pregunta precio. Se trata de las cotizaciones justas."},
+    {"type": "text", "lines": ["No necesitas que te conozca toda la comuna,", "**necesitas que te encuentren los que si van a construir.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "Partimos preguntando **cuantos trabajos necesitas** al mes, no cuantos te gustaria tener en un mundo ideal", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un mes **con trabajo asegurado,** hablemos.", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Si eres **nutricionista independiente**, no partimos armandote una campana el primer dia"},
+    {"type": "text", "lines": ["Partimos preguntando", "**a quien le quieres hablar**"], "sub": "y en que momento esa persona esta buscando ayuda con su alimentacion."},
+    {"type": "stat", "number": "4", "unit": "preguntas", "text": "respondemos antes de armar **cualquier campana**"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "No es solo elegir una foto y un presupuesto, **es pensar el mensaje y el momento** antes de mostrarlo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres ver como pensariamos tu campana, **hablemos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu consulta, no vendiendote nada."}
+  ]
+}

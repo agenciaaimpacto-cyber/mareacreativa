@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **gasfiter** y este mes vas bien pero no sabes si el que viene va a ser igual"},
+    {"type": "text", "lines": ["Trabajaste harto,", "**pero eso no te dice nada del mes que sigue.**"], "sub": "Cada mes arrancas de cero, sin saber si van a sonar las urgencias o no."},
+    {"type": "text", "lines": ["No es que te falte trabajo duro,", "**es que no tienes forma de predecir cuando va a llegar.**"], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote pega todos los dias, **partimos viendo cuantos clientes nuevos necesitas** al mes para que te cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de arrancar de cero cada mes, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
