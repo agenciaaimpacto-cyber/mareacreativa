@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes una **peluqueria o barberia** y crees que la publicidad es para marcas grandes con mucho presupuesto"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo", "**si lo unico que has visto son anuncios de cadenas grandes.**"], "sub": "Pero eso no es lo que decide si funciona o no."},
+    {"type": "text", "lines": ["No se trata de cuanto presupuesto tienes,", "**se trata de cuantos clientes nuevos necesitas** a la semana."], "sub": "Desde ahi se arma lo demas."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos pidiendote un presupuesto grande, **partimos viendo cuantos cortes o servicios** te hacen falta para que el mes te cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres saber que necesita tu local, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

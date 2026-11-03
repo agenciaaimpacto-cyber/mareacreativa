@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si arreglas **notebooks,** esto no es sobre llenarte de equipos como sea"},
+    {"type": "text", "lines": ["Es sobre tener trabajo entrando", "**toda la semana, no solo cuando alguien se acuerda de ti.**"], "sub": "No se trata de competir con la tienda grande en precio."},
+    {"type": "text", "lines": ["Se trata de que te lleguen", "**los equipos justos para vivir de esto,** sin depender de la suerte."], "sub": ""},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos prometiendote clientes todos los dias, **partimos viendo cuantos equipos necesitas** a la semana para que te alcance", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de que se acuerden de ti, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

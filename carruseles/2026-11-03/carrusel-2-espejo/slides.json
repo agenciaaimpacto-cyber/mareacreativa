@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **tecnico en refrigeracion** y una vez ya intentaste hacer publicidad y no paso nada"},
+    {"type": "text", "lines": ["Da miedo intentarlo de nuevo", "**y gastar plata en algo que ya te fallo una vez.**"], "sub": "Es una reaccion normal, no estas exagerando."},
+    {"type": "text", "lines": ["Pero casi siempre lo que fallo", "**no fue la publicidad, fue como se hizo.**"], "sub": "Un anuncio suelto sin segmentar no es lo mismo que una campana pensada para tu rubro."},
+    {"type": "stat", "number": "4", "unit": "preguntas", "text": "respondemos **antes de gastar un peso** en cualquier campana"},
+    {"type": "cta", "text": "Si quieres entender que paso la primera vez, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
