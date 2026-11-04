@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **gasfiter** y crees que hacer publicidad solo te va a traer puros curiosos preguntando precio"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo", "**si alguna vez probaste y te llego de todo.**"], "sub": "Perder tiempo respondiendo gente que nunca iba a contratar es frustrante."},
+    {"type": "text", "lines": ["Eso no pasa por hacer publicidad,", "**pasa por no segmentar a quien le hablas.**"], "sub": "Una campana real filtra antes de llegar a tu WhatsApp."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No armamos un anuncio para cualquiera, **armamos uno para quien de verdad necesita** un gasfiter en su zona y esta dispuesto a pagar por el trabajo", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres filtrar antes de que te escriban, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

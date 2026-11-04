@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **nutricionista independiente** y sientes que trabajando mas horas en el box la agenda deberia llenarse sola"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo,", "**te esfuerzas y no ves el resultado.**"], "sub": "Te quedas hasta tarde respondiendo mensajes y armando planes, y la agenda sigue a medias."},
+    {"type": "text", "lines": ["El problema no es tu esfuerzo,", "**es que la gente que te necesita no sabe que existes.**"], "sub": "Puedes trabajar el doble y seguir invisible para quien busca ayuda justo ahora."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos pidiendote que trabajes mas, **partimos viendo a quien le hablas** y en que momento esta buscando ayuda con su alimentacion", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te encuentren los pacientes correctos, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

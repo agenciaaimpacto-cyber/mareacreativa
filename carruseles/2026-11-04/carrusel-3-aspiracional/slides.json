@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si eres **podologa**, esto no es sobre llenarte de pacientes todos los dias de la semana"},
+    {"type": "text", "lines": ["Es sobre llenar", "**los dos o tres dias que tu elijas**"], "sub": "Los que de verdad quieres atender, sin sobrecargar el resto de tu semana."},
+    {"type": "text", "lines": ["No se trata de atender a cualquier hora,", "**se trata de armar la agenda que tiene sentido para ti.**"], "sub": "Full en los dias que trabajas, libre en los que no."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos preguntando cuantos pacientes quieres en total, **partimos viendo cuantos necesitas por dia** para que la semana te cierre", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres armar tu agenda ideal, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
