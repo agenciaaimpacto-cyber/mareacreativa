@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si das **clases particulares**, esto no es sobre llenarte de alumnos como sea"},
+    {"type": "text", "lines": ["Es sobre tener", "**los alumnos justos para vivir de lo tuyo.**"], "sub": "Sin depender de que alguien te recomiende este mes si o si."},
+    {"type": "stat", "number": "0", "unit": "ansiedad", "text": "de fin de mes preguntandote **si vas a alcanzar a completar tus horas**"},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos preguntando cuantos alumnos necesitas, **no cuantos te gustaria tener**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres tus horas completas sin depender de la suerte, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

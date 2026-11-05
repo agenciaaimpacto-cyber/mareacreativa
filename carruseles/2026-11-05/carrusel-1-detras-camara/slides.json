@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI LO PENSAMOS", "text": "Si tienes un **taller mecanico**, esto es lo que hacemos antes de subir cualquier anuncio"},
+    {"type": "text", "lines": ["No partimos subiendo", "**una foto del taller y punto.**"], "sub": "Primero vemos a quien le estamos hablando y en que momento necesita un mecanico de confianza."},
+    {"type": "text", "lines": ["No es lo mismo hablarle", "**al que recien se le encendio una luz en el tablero**", "que al que ya anda buscando taller hace una semana."], "sub": "Cada uno necesita un mensaje distinto, en un momento distinto."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Pensamos **a quien le hablamos, en que momento y con que mensaje** antes de gastar el primer peso en publicidad", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te encuentren los autos correctos, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

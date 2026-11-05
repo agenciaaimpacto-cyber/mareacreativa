@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes una **tienda de ropa de barrio** y crees que la publicidad solo te va a traer puros curiosos"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo,", "**ya te paso antes con gente que pregunta y no compra.**"], "sub": "Y sientes que vas a gastar plata en mensajes que no llegan a nada."},
+    {"type": "text", "lines": ["Eso pasa cuando el anuncio", "**le habla a cualquiera, no a quien de verdad compra en tu rubro.**"], "sub": "Ahi es donde entra la segmentacion: a quien le hablas, no solo cuanto gastas."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No partimos poniendo plata a lo ancho, **partimos definiendo a quien le hablamos** y con que mensaje", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te lleguen clientes que de verdad compran, **hablemos de tu tienda.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
