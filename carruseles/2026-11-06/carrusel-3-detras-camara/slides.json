@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "COMO TRABAJAMOS",
+      "text": "Si eres **gasfiter**, esto es lo primero que hacemos antes de subir cualquier anuncio"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No partimos pidiendote presupuesto",
+        "**partimos preguntandote que vendes y cuantos clientes necesitas.**"
+      ],
+      "sub": "Antes de pensar en el anuncio, pensamos en tu negocio."
+    },
+    {
+      "type": "stat",
+      "number": "4",
+      "unit": "preguntas",
+      "text": "son las que respondemos **antes de crear cualquier campana**"
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "Que vendes, cuantos clientes necesitas, cuanto puedes invertir **y que tendria que pasar** para que valga la pena",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres partir por ahi, **hablemos de tu negocio.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Conversemos primero, sin compromiso."
+    }
+  ]
+}

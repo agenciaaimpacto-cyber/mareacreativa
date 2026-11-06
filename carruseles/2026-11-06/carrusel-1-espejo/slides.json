@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si eres **tecnico en refrigeracion** y vives mes a mes sin saber si el que viene va a ser bueno o flojo"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No es que te falte pega cuando llaman,",
+        "**es que no sabes cuando van a volver a llamar.**"
+      ],
+      "sub": "Y esa incertidumbre pesa mas que cualquier mes malo puntual."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Depender solo del boca a boca",
+        "**significa que tu agenda la decide la suerte, no tu.**"
+      ],
+      "sub": "Ahi es donde una campana bien hecha cambia la pelicula."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No se trata de salir a buscar clientes como sea, **se trata de que te encuentren justo cuando te necesitan**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres dejar de depender de la suerte, **hablemos de tu negocio.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando, no vendiendote nada."
+    }
+  ]
+}

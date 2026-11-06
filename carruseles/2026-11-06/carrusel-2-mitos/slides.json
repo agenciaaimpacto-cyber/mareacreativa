@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si tienes una **peluqueria o barberia** y ya probaste poner plata en Facebook y no funciono"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tiene sentido que no quieras repetirlo,",
+        "**perder plata en algo que no funciono duele de verdad.**"
+      ],
+      "sub": "El problema no fue intentarlo, fue como se hizo."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Apretar promocionar en una publicacion",
+        "**no es lo mismo que una campana con segmentacion y seguimiento.**"
+      ],
+      "sub": "Son dos cosas distintas, aunque se vean parecidas."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No partimos subiendo presupuesto a lo loco, **partimos definiendo a quien le hablamos** y con que mensaje",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres entender que fallo la primera vez, **hablemos de tu local.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando, no vendiendote nada."
+    }
+  ]
+}
