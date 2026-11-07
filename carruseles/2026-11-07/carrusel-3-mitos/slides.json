@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si eres **entrenador personal** y crees que hacer publicidad te va a llenar de gente que pregunta precio y nunca agenda"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tiene sentido pensarlo,",
+        "**si alguna vez probaste sin segmentar a quien le hablas.**"
+      ],
+      "sub": "Ahi es donde la mayoria se frustra y deja de intentarlo."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "El matiz esta en",
+        "**a quien le hablas, en que momento y con que mensaje.**"
+      ],
+      "sub": "Eso es lo que separa un anuncio suelto de una campana real."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No se trata de que te escriba cualquiera, **se trata de que te escriba quien de verdad quiere entrenar contigo**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres dejar de recibir puros curiosos, **hablemos de tu negocio.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos entendiendo a quien quieres atraer."
+    }
+  ]
+}

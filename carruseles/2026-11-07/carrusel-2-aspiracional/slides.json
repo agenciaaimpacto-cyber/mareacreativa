@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LA META, NO EL METODO",
+      "text": "Si eres **agente de seguros** independiente, esto no es sobre cerrar polizas con todo el mundo"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es sobre tener",
+        "**las renovaciones y clientes nuevos suficientes para vivir de esto**"
+      ],
+      "sub": "No se trata de ser el agente mas conocido de la ciudad."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Se trata de",
+        "**no depender de que alguien se acuerde de ti justo cuando vence su poliza.**"
+      ],
+      "sub": "Eso se construye, no se espera."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No es sobre vender seguros a como sea, **es sobre que te encuentren justo cuando los necesitan**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres vivir de esto sin depender de la suerte, **hablemos de tu cartera.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

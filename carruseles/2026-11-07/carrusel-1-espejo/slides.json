@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si tienes tu **consulta veterinaria** y revisas la agenda de manana antes de cerrar, solo para ver si hay algo"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Hay dias con la sala llena,",
+        "**y dias donde no suena ni el telefono.**"
+      ],
+      "sub": "Y no es por falta de mascotas en el sector, es por falta de gente que sepa que existes justo cuando te necesita."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No es que atiendas poco,",
+        "**es que nadie te esta encontrando a tiempo.**"
+      ],
+      "sub": "Ahi es donde entra una campana pensada para tu consulta, no una generica."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No se trata de llenarte de pacientes todos los dias, **se trata de que no dependas de la suerte para llenar la semana**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres dejar la agenda vacia atras, **hablemos de tu consulta.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando, no vendiendote nada."
+    }
+  ]
+}
