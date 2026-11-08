@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si eres **tecnico en refrigeracion** y crees que primero necesitas pagina web y logo antes de hacer publicidad"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tiene sentido querer verte mas profesional,",
+        "**el tema es que mientras esperas lo perfecto, el mes sigue pasando.**"
+      ],
+      "sub": "Y las cotizaciones no llegan solas mientras ordenas el resto."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Muchos negocios empiezan",
+        "**con fotos reales de trabajos ya hechos, mientras ordenan el resto en paralelo.**"
+      ],
+      "sub": "Lo que mueve la aguja es que te vea quien te necesita ahora, no la pagina perfecta."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No se trata de esperar a tener todo listo, **se trata de empezar con lo que ya tienes**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres empezar con lo que ya tienes, **hablemos de tu negocio.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando, no vendiendote nada."
+    }
+  ]
+}

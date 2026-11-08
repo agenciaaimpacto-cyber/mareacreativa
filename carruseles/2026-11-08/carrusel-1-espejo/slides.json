@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si eres **gasfiter** y el proximo mes depende de que alguien se acuerde de ti justo cuando se le rompe algo"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Hay meses con hartos llamados,",
+        "**y meses donde el telefono simplemente no suena.**"
+      ],
+      "sub": "No es que trabajes peor esos meses, es que nadie sabe que estas disponible justo cuando lo necesitan."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No es un problema de manos,",
+        "**es un problema de que no te encuentran a tiempo.**"
+      ],
+      "sub": "Ahi es donde entra una campana pensada para tu rubro, no un anuncio generico."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No se trata de tener pega todos los dias de la semana, **se trata de que no dependas de la suerte para tener un mes estable**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres dejar de depender solo del boca a boca, **hablemos de tu negocio.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando, no vendiendote nada."
+    }
+  ]
+}

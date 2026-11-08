@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LA META, NO EL METODO",
+      "text": "Si tienes tu **peluqueria o barberia** con local propio, esto no es sobre llenarte de clientes nuevos todos los dias"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es sobre tener",
+        "**la agenda llena con la gente que tu quieres atender.**"
+      ],
+      "sub": "No se trata de aceptar a cualquiera porque el mes viene flojo."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Se trata de",
+        "**poder decir que no a un mal cliente porque hay suficiente demanda como para elegir.**"
+      ],
+      "sub": "Eso se construye con una campana real, no se espera."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "No es sobre llenar el local como sea, **es sobre llenarlo con quien de verdad quieres atender**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres elegir a tus clientes en vez de aceptar a todos, **hablemos de tu local.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}
