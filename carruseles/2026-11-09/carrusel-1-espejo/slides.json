@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes un **taller mecanico** y vives revisando el celular esperando que alguien escriba"},
+    {"type": "text", "lines": ["Hay semanas con el taller lleno", "**y semanas donde el puente simplemente queda vacio.**"], "sub": "No es que trabajes peor esas semanas, es que nadie se acordo de ti justo cuando el auto empezo a fallar."},
+    {"type": "text", "lines": ["No es un problema de manos", "**ni de lo bueno que seas arreglando.**"], "sub": "Es un problema de que no te encuentran en el momento en que te necesitan."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de tener el taller lleno todos los dias, **se trata de que no dependas de la suerte para tener una semana estable**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender solo del boca a boca, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

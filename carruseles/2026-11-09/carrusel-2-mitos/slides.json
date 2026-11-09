@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **agente de seguros** independiente y crees que la publicidad te va a llenar de gente que solo pregunta precio"},
+    {"type": "text", "lines": ["Tiene sentido pensarlo", "**si lo unico que has visto es gente subiendo un anuncio generico sin filtrar a quien le habla.**"], "sub": "Ahi es normal que lleguen puros curiosos."},
+    {"type": "text", "lines": ["El tema no es la publicidad,", "**es a quien le hablas y con que mensaje.**"], "sub": "Una campana bien segmentada le habla a quien de verdad esta buscando asesorarse, no a cualquiera que pase por el frente."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de llegarle a todo el mundo, **se trata de llegarle a quien realmente califica**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres entender como se segmenta bien, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si organizas **eventos o matrimonios**, esto no es sobre tener la agenda llena cualquier mes"},
+    {"type": "text", "lines": ["Es sobre tener", "**fechas reservadas con suficiente anticipacion para trabajar tranquilo, no a las carreras.**"], "sub": "No se trata de aceptar cualquier evento porque el mes viene flojo."},
+    {"type": "text", "lines": ["Se trata de", "**saber con semanas de anticipacion que vas a tener trabajo, en vez de enterarte la semana anterior.**"], "sub": "Eso se construye con una campana real, no se espera a que llegue solo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No es sobre llenarte de eventos como sea, **es sobre poder planificar con tiempo**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de trabajar a las carreras, **hablemos de tu proximo evento.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
