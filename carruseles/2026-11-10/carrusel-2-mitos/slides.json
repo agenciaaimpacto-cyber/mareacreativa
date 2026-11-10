@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE LA DESCONFIANZA", "text": "Si fabricas o instalas **portones** y ya probaste poner plata en Facebook y sientes que fue plata perdida"},
+    {"type": "text", "lines": ["Perder plata duele,", "**y mas si nadie te explico bien que estabas haciendo.**"], "sub": "Casi siempre lo que se probo fue apretar el boton de promocionar, no una campana real."},
+    {"type": "text", "lines": ["Promocionar una publicacion", "**no es lo mismo que una campana con estrategia.**"], "sub": "Sin saber a quien le hablas ni que necesitas lograr, es normal que no funcione."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Una campana real parte sabiendo **cuantas cotizaciones necesitas al mes**, no solo mostrandote a mas gente", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo de nuevo pero bien hecho, **hablemos de tu taller de portones.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos entendiendo tu negocio, no vendiendote nada."}
+  ]
+}

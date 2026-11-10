@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes una **peluqueria o barberia** y te quedas mirando el Instagram de la competencia preguntandote como hacen para estar siempre llenos"},
+    {"type": "text", "lines": ["Puede que ese local", "**no este mejor que el tuyo.**"], "sub": "Solo esta mas presente justo cuando alguien busca hora, y tu quedaste fuera de esa busqueda."},
+    {"type": "text", "lines": ["No es un problema", "**de lo bien que cortes o tinas.**"], "sub": "Es que la gente nueva no se entera de que existes cuando anda buscando donde ir."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de salir mas en redes porque si, **se trata de aparecer justo cuando alguien busca hora**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te encuentren justo cuando te buscan, **hablemos de tu local.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

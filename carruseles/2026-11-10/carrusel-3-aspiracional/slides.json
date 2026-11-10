@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META NO ES TENER CIENTOS", "text": "Si tienes tu propia **consulta veterinaria**, esto no es sobre llenarte de pacientes todos los dias"},
+    {"type": "text", "lines": ["Es sobre tener", "**las consultas suficientes cada semana**"], "sub": "para no vivir con la duda de si este mes va a alcanzar o no."},
+    {"type": "text", "lines": ["Poder decir que no", "**a un horario que no te acomoda**"], "sub": "porque ya tienes suficiente demanda como para elegir, no para aceptar cualquier cosa."},
+    {"type": "proof", "tag": "LO QUE BUSCAMOS", "text": "No se trata de crecer sin rumbo, **se trata de llegar a la cantidad de consultas que tu consulta necesita**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres una agenda mas estable, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu negocio, sin compromiso."}
+  ]
+}
