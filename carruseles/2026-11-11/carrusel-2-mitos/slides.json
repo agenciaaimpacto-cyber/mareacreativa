@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE LA DUDA", "text": "Si eres **gasfiter** y piensas que primero necesitas pagina web y logo antes de hacer publicidad"},
+    {"type": "text", "lines": ["Tiene sentido querer", "**verte profesional primero.**"], "sub": "Nadie quiere anunciarse sintiendo que todavia no esta listo."},
+    {"type": "text", "lines": ["Pero muchos negocios", "**consiguen clientes con lo que ya tienen.**"], "sub": "Mientras ordenas el resto en paralelo, no antes de partir."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No esperamos a que todo este perfecto, **partimos con lo que ya tienes y vamos ordenando en el camino**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres partir sin esperar a tener todo listo, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

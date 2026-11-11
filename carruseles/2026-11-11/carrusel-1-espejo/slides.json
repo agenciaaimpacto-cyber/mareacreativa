@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si trabajas en **refrigeracion** y revisas el celular a cada rato esperando que llegue un llamado"},
+    {"type": "text", "lines": ["Hay semanas con la agenda", "**llena de visitas.**"], "sub": "Y hay semanas donde el telefono simplemente no suena, sin que hayas hecho nada distinto."},
+    {"type": "text", "lines": ["No es un problema", "**de lo bien que reparas.**"], "sub": "Es que nadie se acuerda de ti justo cuando el equipo se echa a perder."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de recibir llamados todos los dias, **se trata de que no dependas de la suerte para tener una semana estable**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender solo del boca a boca, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

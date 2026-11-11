@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO LO VEMOS", "text": "Si das **clases particulares** y ya probaste el boton de promocionar tu publicacion"},
+    {"type": "text", "lines": ["Poner plata en un boton", "**no es lo mismo que una campana real.**"], "sub": "El boton le muestra tu publicacion a mas gente, sin decidir a quien ni por que."},
+    {"type": "text", "lines": ["Una campana con estrategia", "**le habla a quien de verdad busca clases.**"], "sub": "No a quien solo pasaba viendo el feed."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "No es sobre gastar mas plata, **es sobre a quien le hablas y con que mensaje**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo bien hecho, **hablemos de tus clases.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
