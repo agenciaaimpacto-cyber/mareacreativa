@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE LA DUDA", "text": "Si eres **entrenador personal** y piensas que primero necesitas una pagina web y un logo bien armado antes de hacer publicidad"},
+    {"type": "text", "lines": ["Tiene sentido querer", "**verte profesional primero.**"], "sub": "Nadie quiere anunciarse sintiendo que todavia le falta algo."},
+    {"type": "text", "lines": ["Pero muchos negocios", "**consiguen clientes con lo que ya tienen.**"], "sub": "Mientras ordenas el resto en paralelo, no antes de partir."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "La imagen se puede ir mejorando en el camino, **lo que no puede esperar es que te encuentren los que ya te estan buscando**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres empezar con lo que ya tienes, **hablemos de tu entrenamiento.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

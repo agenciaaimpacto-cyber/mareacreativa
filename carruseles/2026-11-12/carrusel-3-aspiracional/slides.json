@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si eres **el que arregla notebooks**, esto no es sobre tener la casa llena de equipos todos los dias"},
+    {"type": "text", "lines": ["Es sobre tener", "**suficientes reparaciones cada semana**"], "sub": "para no vivir con la duda de si este mes va a alcanzar o no."},
+    {"type": "text", "lines": ["Es sobre que te busquen", "**a ti primero,**"], "sub": "en vez de esperar que alguien se acuerde de que existes."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de tener cientos de clientes, **se trata de tener los suficientes para vivir bien de tu trabajo**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de la suerte, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

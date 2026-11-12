@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **profesor particular** y revisas el celular antes de dormir para ver si alguien escribio preguntando por un cupo"},
+    {"type": "text", "lines": ["Hay semanas con la agenda", "**llena de alumnos.**"], "sub": "Y hay semanas donde simplemente no llega nadie nuevo, sin que hayas cambiado nada en como ensenas."},
+    {"type": "text", "lines": ["No es un problema", "**de lo bien que explicas.**"], "sub": "Es que nadie se entera de que das clases justo cuando anda buscando a alguien como tu."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de llenarte de alumnos todas las semanas, **se trata de que no dependas de que alguien se acuerde de ti por casualidad**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de la casualidad, **hablemos de tus clases.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
