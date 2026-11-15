@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes tu **tienda de ropa de barrio** y el mes empezo bien, pero de la nada se enfrio sin que cambiaras nada"},
+    {"type": "text", "lines": ["No fue que subiste", "**los precios.**"], "sub": "Ni que la ropa dejo de gustar. Simplemente la gente que te compraba antes no volvio a pasar por la vitrina esta semana."},
+    {"type": "text", "lines": ["No es un problema", "**de como armas las vitrinas.**"], "sub": "Es que no hay nada que haga que la gente nueva se acuerde de ti justo cuando anda buscando algo para ponerse."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de llenar la tienda todos los dias, **se trata de no depender de que el mes se te enfrie sin aviso**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que tu tienda no dependa de la suerte del mes, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

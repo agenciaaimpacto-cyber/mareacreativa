@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes tu **consulta veterinaria** y te da miedo que la publicidad te traiga puros mensajes de gente que solo quiere precio"},
+    {"type": "text", "lines": ["Es un miedo valido", "**si la campana no esta bien pensada.**"], "sub": "Poner plata sin filtro trae de todo: el que compara precios y el que de verdad necesita atender a su mascota."},
+    {"type": "text", "lines": ["La diferencia no es la plata,", "**es a quien le hablas.**"], "sub": "Una campana con segmentacion y mensaje claro le llega a dueños de mascotas que buscan atencion de confianza, no solo al que pregunta por descuento."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de gastar mas, **se trata de hablarle a quien de verdad necesita tu consulta**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te lleguen los dueños correctos, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

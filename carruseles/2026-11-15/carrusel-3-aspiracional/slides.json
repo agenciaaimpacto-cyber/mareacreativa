@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si fabricas o instalas **portones**, esto no es sobre tener el telefono sonando todo el dia"},
+    {"type": "text", "lines": ["Es sobre tener", "**cotizaciones suficientes.**"], "sub": "Las justas para no quedarte sin pega ningun mes, sin andar adivinando si el proximo va a venir flojo."},
+    {"type": "text", "lines": ["No necesitas ser", "**la fabrica mas grande de la zona.**"], "sub": "Necesitas que te encuentren justo cuando alguien anda cotizando un portón, no depender de que te recomienden por casualidad."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de trabajar mas horas, **se trata de tener trabajo asegurado todos los meses**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de adivinar como viene el mes, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
