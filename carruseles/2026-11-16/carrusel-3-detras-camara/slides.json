@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO TRABAJAMOS", "text": "Si eres **gasfiter** y alguna vez contrataste publicidad sin que nadie te preguntara primero que necesitabas"},
+    {"type": "text", "lines": ["Antes de crear cualquier campana", "**hacemos 4 preguntas.**"], "sub": "Que servicios quieres mas, cuantos clientes necesitas al mes, cuanto puedes invertir, y que tendria que pasar para que valga la pena."},
+    {"type": "text", "lines": ["No partimos armando anuncios,", "**partimos entendiendo tu negocio.**"], "sub": "Sin eso, la plata se gasta mostrandole tu aviso a cualquiera, no a quien de verdad necesita un gasfiter hoy."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "No se trata de aparecer mas, **se trata de aparecerle a quien te necesita**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que alguien te haga esas preguntas antes de gastar un peso, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

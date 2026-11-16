@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si organizas **eventos o matrimonios** y sientes que primero necesitas una pagina nueva, fotos profesionales y todo perfecto antes de mostrar tu trabajo"},
+    {"type": "text", "lines": ["Es normal querer", "**verte impecable.**"], "sub": "Nadie quiere mostrar su trabajo a medias cuando se trata del evento mas importante de alguien."},
+    {"type": "text", "lines": ["Pero no necesitas", "**todo listo primero.**"], "sub": "Muchos negocios consiguen las primeras conversaciones reales con lo que ya tienen hoy, mientras el resto se ordena en paralelo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de esperar a estar perfecto, **se trata de empezar a mostrarte mientras se ordena lo demas**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres mostrar tu trabajo sin esperar a tener todo listo, **hablemos de tus eventos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

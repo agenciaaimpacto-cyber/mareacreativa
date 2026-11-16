@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **podologa** y revisas la agenda de manana antes de dormir, para ver si por fin aparecio algo"},
+    {"type": "text", "lines": ["No es que te falte", "**buen trabajo.**"], "sub": "Las pacientes que ya te conocen vuelven cuando les toca. El problema es que no hay nada que haga que alguien nuevo te encuentre justo cuando le empieza a doler el pie."},
+    {"type": "text", "lines": ["No necesitas llenar", "**la semana completa.**"], "sub": "Necesitas los suficientes turnos para que la agenda de dos dias a la semana este llena, no vacia esperando que alguien se acuerde de ti."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de atender a medio pueblo, **se trata de que la agenda no dependa de la suerte**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de revisar la agenda con los dedos cruzados, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
