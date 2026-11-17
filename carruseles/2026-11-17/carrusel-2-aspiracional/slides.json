@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si reparas **notebooks y computadores**, esto no es sobre tener la casa llena de equipos todos los dias"},
+    {"type": "text", "lines": ["Es sobre tener", "**la demanda suficiente**"], "sub": "para poder elegir los trabajos que te convienen, no aceptar cualquier cosa porque no sabes si va a volver a sonar el telefono."},
+    {"type": "text", "lines": ["Poder decir que no", "**a un cliente problematico**"], "sub": "porque ya tienes otros esperando turno, no porque te sobre el trabajo."},
+    {"type": "proof", "tag": "LO QUE BUSCAMOS", "text": "No se trata de tener cientos de clientes, **se trata de tener los suficientes para elegir con quien trabajar**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de aceptar cualquier pega por necesidad, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu negocio, sin compromiso."}
+  ]
+}

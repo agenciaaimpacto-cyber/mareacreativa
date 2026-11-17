@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes tu **peluqueria o barberia** y sientes que entre mas trabajas, menos te alcanza"},
+    {"type": "text", "lines": ["No es que te falten", "**horas de trabajo.**"], "sub": "Puedes estar a full toda la semana y aun asi el mes no cierra como esperabas."},
+    {"type": "text", "lines": ["El problema no es", "**cuanto trabajas.**"], "sub": "Es que la clienta nueva no se entera de que existes justo cuando anda buscando donde cortarse el pelo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de trabajar mas horas, **se trata de que te encuentren cuando te estan buscando**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de medir tu mes en horas trabajadas, **hablemos de tu local.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
