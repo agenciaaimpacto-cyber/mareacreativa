@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO ENTENDEMOS", "text": "Si tienes tu **consulta veterinaria** y ya probaste poner plata en Facebook y no funciono"},
+    {"type": "text", "lines": ["Perder plata en publicidad", "**duele de verdad.**"], "sub": "Y es razonable sacar la conclusion de que la publicidad simplemente no funciona para tu rubro."},
+    {"type": "text", "lines": ["Pero promocionar una publicacion", "**no es lo mismo**"], "sub": "que una campana con objetivo claro, segmentacion y seguimiento. Son cosas distintas, aunque se vean parecidas."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "No es que la publicidad no funcione, **es que apretar un boton no es una estrategia**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres entender la diferencia antes de intentarlo de nuevo, **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu negocio, sin compromiso."}
+  ]
+}

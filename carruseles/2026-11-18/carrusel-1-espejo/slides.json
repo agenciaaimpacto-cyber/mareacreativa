@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si eres **gasfiter** y cada noche revisas la agenda de manana con ese apreton en el estomago"},
+    {"type": "text", "lines": ["No es que no sepas", "**hacer tu pega.**"], "sub": "Sabes arreglar cualquier fuga o instalacion. El problema es que no sabes si manana va a sonar el telefono."},
+    {"type": "text", "lines": ["La incertidumbre", "**es el verdadero cansancio.**"], "sub": "No el trabajo en si, sino no poder planificar porque nunca sabes cuantos llamados vas a tener esta semana."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de trabajar mas, **se trata de que te encuentren antes de que se te enfrie la semana**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de adivinar como viene el mes, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

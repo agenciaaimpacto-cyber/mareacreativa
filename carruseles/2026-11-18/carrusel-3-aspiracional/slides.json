@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si eres **profesor particular**, esto no es sobre llenarte de alumnos todos los dias de la semana"},
+    {"type": "text", "lines": ["Es sobre llegar", "**a fin de mes**"], "sub": "sin esa ansiedad de hacer cuentas para ver si alcanza, mes tras mes."},
+    {"type": "text", "lines": ["Los clientes justos", "**para vivir de lo tuyo.**"], "sub": "No se trata de tener la agenda a tope, se trata de tener lo suficiente para no depender de la suerte."},
+    {"type": "proof", "tag": "LO QUE BUSCAMOS", "text": "No se trata de tener cientos de alumnos, **se trata de tener los suficientes para vivir tranquilo**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un fin de mes sin tanta ansiedad, **hablemos de tus clases.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
