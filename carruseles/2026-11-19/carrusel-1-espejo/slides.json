@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ES ASI DE FRUSTRANTE", "text": "Si eres **nutricionista independiente** y el mes empezo bien, pero de la nada se enfrio sin ninguna razon clara"},
+    {"type": "text", "lines": ["No es que hagas algo", "**distinto cada mes.**"], "sub": "Haces el mismo trabajo, las mismas consultas de calidad. El problema es que no puedes predecir cuantos pacientes nuevos van a llegar."},
+    {"type": "text", "lines": ["La incertidumbre", "**es lo que mas cansa.**"], "sub": "No saber si la proxima semana vas a tener agenda llena o vacia, sin poder hacer nada para cambiarlo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de trabajar distinto, **se trata de que te encuentren de forma constante, no solo algunos meses**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de que el mes 'venga bueno', **hablemos de tu consulta.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

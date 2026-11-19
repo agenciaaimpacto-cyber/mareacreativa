@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO LO HACEMOS", "text": "Si eres **agente de seguros** y alguna vez le diste boost a una publicacion esperando que llegaran clientes"},
+    {"type": "text", "lines": ["Promocionar una publicacion", "**no es una campana.**"], "sub": "Es apretar un boton para que mas gente vea algo, sin decidir a quien le hablas ni que necesitas lograr."},
+    {"type": "text", "lines": ["Una campana real parte", "**con un objetivo claro.**"], "sub": "A quien le hablamos, en que momento, y que tiene que pasar despues de que te escriban."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "No es lo mismo pedir que te vean, **que armar algo pensado para que te contraten**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres ver la diferencia en tu propio negocio, **hablemos de tus seguros.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si tienes tu **taller mecanico**, esto no es sobre tener el telefono sonando todo el dia"},
+    {"type": "text", "lines": ["Es sobre poder decir que no", "**a un mal cliente.**"], "sub": "Ese que regatea todo o te hace perder tiempo, sin miedo a quedarte sin pega esa semana."},
+    {"type": "text", "lines": ["Tener suficiente demanda", "**para poder elegir.**"], "sub": "No se trata de atender a todo el que llegue, se trata de trabajar con los clientes que si valen la pena."},
+    {"type": "proof", "tag": "LO QUE BUSCAMOS", "text": "No se trata de llenar el taller de cualquier forma, **se trata de poder elegir con quien trabajar**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de aceptar cualquier pega por miedo a quedarte sin nada, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
