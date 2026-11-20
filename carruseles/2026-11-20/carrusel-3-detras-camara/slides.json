@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI LO PENSAMOS", "text": "Si fabricas o instalas **portones** y te preguntas que hace en realidad una agencia antes de poner un aviso"},
+    {"type": "text", "lines": ["No partimos eligiendo", "**una foto bonita del porton.**"], "sub": "Partimos decidiendo a quien le vamos a hablar: alguien que recien esta construyendo o alguien que quiere cambiar el porton viejo de su casa."},
+    {"type": "text", "lines": ["Despues decidimos", "**el momento y el mensaje.**"], "sub": "No es lo mismo hablarle a alguien que esta por entregar su casa nueva que a alguien que lleva anos postergando el cambio."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de mostrar un aviso bonito, **se trata de hablarle a la persona correcta en el momento correcto**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres ver como pensariamos tu campana, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

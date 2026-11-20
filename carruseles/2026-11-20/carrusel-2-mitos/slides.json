@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO ENTENDEMOS", "text": "Si eres **entrenador personal** y sientes que primero necesitas una pagina web y fotos profesionales antes de anunciarte"},
+    {"type": "text", "lines": ["Es normal querer", "**verte mas profesional.**"], "sub": "Nadie quiere mostrarse a medias cuando se trata de que la gente confie en ti para entrenar."},
+    {"type": "text", "lines": ["Pero no necesitas", "**todo listo primero.**"], "sub": "Muchos entrenadores consiguen sus primeros clientes nuevos con lo que ya tienen hoy, mientras ordenan el resto en paralelo."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de esperar a estar perfecto, **se trata de empezar a mostrarte mientras se ordena lo demas**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres sumar clientes sin esperar a tener todo listo, **hablemos de tus entrenamientos.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

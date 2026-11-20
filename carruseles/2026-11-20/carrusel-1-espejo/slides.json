@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes tu **tienda de ropa** y te quedas mirando el Instagram de la competencia preguntandote por que a ellos les va mejor"},
+    {"type": "text", "lines": ["No sabes si de verdad", "**les esta yendo mejor.**"], "sub": "Solo ves fotos bonitas y publicaciones seguidas. Eso no te dice cuantas ventas reales estan haciendo."},
+    {"type": "text", "lines": ["El problema no es", "**que publiques poco.**"], "sub": "Es que no hay nada haciendo que clientas nuevas se enteren de que tu tienda existe, mas alla de quien ya pasa por la calle."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de publicar mas seguido, **se trata de que te encuentren cuando andan buscando algo para ponerse**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de compararte y empezar a que te encuentren, **hablemos de tu tienda.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
