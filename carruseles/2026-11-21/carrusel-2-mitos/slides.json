@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO ENTENDEMOS", "text": "Si eres **gasfiter** y te da miedo que hacer publicidad solo te traiga mensajes de gente que anda buscando lo mas barato"},
+    {"type": "text", "lines": ["Es un miedo valido.", "**Pasa cuando el aviso le habla a cualquiera.**"], "sub": "Si el anuncio no dice a quien le hablas, te van a escribir todos, hasta el que solo quiere cotizar por cotizar."},
+    {"type": "text", "lines": ["El problema no es publicitarse.", "**Es publicitarse sin filtro.**"], "sub": "Ahi es donde entra la segmentacion: a quien le hablas, con que mensaje y en que momento."},
+    {"type": "proof", "tag": "ASI LO ENFOCAMOS", "text": "No es que la publicidad traiga clientes malos, **es que una campana sin estrategia le habla a cualquiera**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que te lleguen las pegas que de verdad te convienen, **hablemos de tu negocio.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

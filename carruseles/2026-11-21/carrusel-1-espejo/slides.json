@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE ENTIENDE POR QUE LO PIENSAS", "text": "Si tienes tu **peluqueria o barberia** y el proximo mes depende 100% de que la gente se acuerde de recomendarte"},
+    {"type": "text", "lines": ["No tienes forma de saber", "**si el mes que viene va a ser bueno.**"], "sub": "Un mes la agenda se llena sola. Al otro, nadie te nombra y no sabes por que."},
+    {"type": "text", "lines": ["No es que trabajes mal.", "**Es que no controlas como te encuentran.**"], "sub": "El boca a boca es real, pero no es algo que puedas planificar ni repetir cuando lo necesitas."},
+    {"type": "proof", "tag": "COMO LO VEMOS", "text": "No se trata de dejar de confiar en las recomendaciones, **se trata de no depender solo de ellas**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres que tu agenda no dependa de la suerte del mes, **hablemos de tu salon.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}

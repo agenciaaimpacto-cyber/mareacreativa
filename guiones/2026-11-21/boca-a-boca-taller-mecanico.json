@@ -1,0 +1,13 @@
+{
+  "formato": "voz_en_off",
+  "pilar": "espejo",
+  "titulo": "Depender del boca a boca - taller mecanico",
+  "hook": "Si tienes tu taller mecanico y cada mes depende de que alguien se acuerde de recomendarte.",
+  "desarrollo": [
+    "Un mes el taller esta lleno de puro boca a boca. Al siguiente, no sabes por que se enfrio.",
+    "No es que trabajes peor. Es que no tienes forma de predecir cuantos autos van a llegar.",
+    "El boca a boca funciona, pero no se puede planificar ni apurar cuando lo necesitas."
+  ],
+  "cta": "Si quieres dejar de depender solo de la suerte del mes, escribenos.",
+  "notas_produccion": "Grabar planos del taller trabajando (herramientas, auto en el elevador, sin mostrar patentes ni datos de clientes). Voz en off calmada, como explicando una situacion conocida, no vendiendo nada."
+}

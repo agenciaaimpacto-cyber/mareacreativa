@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META, NO EL METODO", "text": "Si reparas **notebooks y computadores**, esto no es sobre tener el local lleno de equipos todas las semanas"},
+    {"type": "text", "lines": ["Es sobre no tener semanas", "**completamente flojas.**"], "sub": "Las suficientes reparaciones entrando cada semana para que no dependas de que alguien se acuerde de ti."},
+    {"type": "text", "lines": ["No necesitas cientos de clientes.", "**Necesitas los justos y constantes.**"], "sub": "Los que te permiten cerrar el mes sin esa sensacion de que todo depende de la suerte."},
+    {"type": "proof", "tag": "LO QUE BUSCAMOS", "text": "No se trata de llenarte de equipos, **se trata de que entren los suficientes todas las semanas**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de depender de que se acuerden de ti, **hablemos de tu taller.**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando, no vendiendote nada."}
+  ]
+}
