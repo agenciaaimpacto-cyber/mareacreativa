@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO ENTENDEMOS", "text": "Si eres **podologa** y te quedas viendo el Instagram de otra consulta pensando que a ella le esta yendo mejor"},
+    {"type": "text", "lines": ["Puede que sea cierto.", "**O puede que solo publique mas seguido que tu.**"], "sub": "Que alguien se vea mas movido en redes no dice nada de cuantos pacientes agenda en realidad."},
+    {"type": "text", "lines": ["Compararte asi no te dice nada util.", "**Solo te deja con mas ansiedad.**"], "sub": "Lo que importa es tu propia agenda, no el feed del vecino."},
+    {"type": "proof", "tag": "ASI LO ENFOCAMOS", "text": "No partimos mirando a la competencia, **partimos preguntando cuantos pacientes necesitas tu** para que la semana te funcione", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres dejar de compararte y **enfocarte en tu propia meta**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu consulta, no vendiendote nada."}
+  ]
+}

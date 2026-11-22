@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Si eres **nutricionista independiente** y ya probaste poner plata en Facebook y no funciono"},
+    {"type": "text", "lines": ["Esa frustracion es real.", "**Perder plata duele, y con razon dudas de volver a intentarlo.**"], "sub": "El problema no fue publicitarse. Fue como se hizo."},
+    {"type": "text", "lines": ["Apretar el boton promocionar", "**no es lo mismo que una campana con estrategia.**"], "sub": "Sin segmentacion ni seguimiento, le hablas a cualquiera y el resultado se siente al azar."},
+    {"type": "proof", "tag": "ASI LO ENFOCAMOS", "text": "Antes de invertir un peso, definimos **a quien le hablas, con que mensaje y en que momento**", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres intentarlo de nuevo pero **esta vez bien hecho**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu consulta, no vendiendote nada."}
+  ]
+}

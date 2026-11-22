@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA META", "text": "Si eres **tecnico en refrigeracion**, esto no es sobre tener la agenda llena todos los dias"},
+    {"type": "text", "lines": ["Es sobre tener", "**los trabajos justos para no andar corriendo de un lado a otro sin parar.**"], "sub": "Ni tantos que no alcances, ni tan pocos que te preocupes por el mes."},
+    {"type": "text", "lines": ["Un mes donde sabes", "**cuanto vas a trabajar antes de que empiece.**"], "sub": "Sin depender de que alguien se acuerde de ti justo cuando se le echo a perder el equipo."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Partimos por **cuantos trabajos necesitas al mes**, no por cuantos te gustaria tener", "source": "Marea Creativa"},
+    {"type": "cta", "text": "Si quieres un mes **sin la ansiedad de si va a alcanzar**", "button": "Escribenos por WhatsApp ->", "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."}
+  ]
+}
