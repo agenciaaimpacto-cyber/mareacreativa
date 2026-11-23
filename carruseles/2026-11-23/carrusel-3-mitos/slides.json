@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "ES NORMAL PENSARLO",
+      "text": "Si tienes tu **peluqueria o barberia** y sientes que primero necesitas un local renovado y fotos profesionales antes de anunciarte"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es normal querer",
+        "**verte mas profesional primero.**"
+      ],
+      "sub": "Nadie quiere mostrar su negocio si siente que no esta a la altura."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Pero muchos negocios",
+        "**consiguen clientes con lo que ya tienen.**"
+      ],
+      "sub": "Mientras ordenas el resto en paralelo, no hace falta esperar a que todo este perfecto."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO ENFOCAMOS",
+      "text": "No esperamos a que todo este listo, **partimos con lo que tu local ya tiene hoy**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres partir sin esperar a que todo sea perfecto, **hablemos de tu local.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu peluqueria, no vendiendote nada."
+    }
+  ]
+}

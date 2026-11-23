@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "ANTES DE EMPEZAR",
+      "text": "Si fabricas o instalas **portones** y te preguntas por donde empieza en realidad una campana antes de poner un aviso"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No partimos con un aviso bonito.",
+        "**Partimos con 4 preguntas.**"
+      ],
+      "sub": "Que vendes exactamente, cuantos clientes nuevos necesitas al mes, cuanto puedes invertir, y que tendria que pasar para que valga la pena."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Esas respuestas",
+        "**son las que arman la campana.**"
+      ],
+      "sub": "Recien ahi decidimos a quien le hablamos y con que mensaje, no antes."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO LO VEMOS",
+      "text": "Sin esas respuestas, cualquier aviso es solo **una foto bonita sin rumbo**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres responder esas 4 preguntas para tu taller, **hablemos.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando, no vendiendote nada."
+    }
+  ]
+}

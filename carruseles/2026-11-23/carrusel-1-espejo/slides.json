@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si eres **agente de seguros** y te quedas mirando las publicaciones de otro agente que parece tener clientes nuevos todas las semanas"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Puede que le este yendo mejor.",
+        "**O puede que solo publique mas seguido que tu.**"
+      ],
+      "sub": "Que alguien suba mas contenido no dice nada de cuantas polizas cierra en realidad."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Compararte asi no te acerca a nada.",
+        "**Solo te deja con mas ansiedad.**"
+      ],
+      "sub": "Lo que importa es si tu agenda tiene los contactos que necesitas, no el feed del otro agente."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO ENFOCAMOS",
+      "text": "No partimos mirando a la competencia, **partimos preguntando cuantos clientes nuevos necesitas tu** al mes para que tu cartera funcione",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres dejar de compararte y **enfocarte en tu propia meta**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu cartera, no vendiendote nada."
+    }
+  ]
+}
