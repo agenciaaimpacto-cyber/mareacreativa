@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LA META, NO EL METODO",
+      "text": "Si trabajas en **refrigeracion**, esto no es sobre tener el celular sonando todo el dia"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es sobre tener los llamados justos",
+        "**para no quedarte con hueco en la semana.**"
+      ],
+      "sub": "No necesitas decenas de servicios nuevos cada mes. Necesitas los suficientes para que la semana funcione."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Eso se consigue con llamados que llegan",
+        "**de forma mas predecible.**"
+      ],
+      "sub": "No esperando que alguien se acuerde de recomendarte justo cuando lo necesitas."
+    },
+    {
+      "type": "proof",
+      "tag": "CONVERTIMOS TU INVERSION EN OPORTUNIDADES",
+      "text": "No necesitas ser una **gran empresa** para tener la semana llena de servicios",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres esa previsibilidad en tu semana de trabajo",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

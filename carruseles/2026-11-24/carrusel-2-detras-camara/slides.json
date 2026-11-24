@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "COMO LO PENSAMOS",
+      "text": "Si fabricas o instalas **portones**, asi es como pensamos una campana antes de tocar un peso en publicidad"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Primero vemos a quien le hablamos.",
+        "**No es lo mismo un condominio nuevo que una casa que quiere cambiar un portón viejo.**"
+      ],
+      "sub": "El mensaje cambia segun quien lo esta leyendo, no es uno solo para todos."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Despues vemos en que momento.",
+        "**Alguien que recien esta cotizando no es lo mismo que alguien listo para instalar.**"
+      ],
+      "sub": "Hablarle lo mismo a los dos hace que pierdas a ambos."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI TRABAJAMOS",
+      "text": "A quien le hablamos, en que momento, **y con que mensaje** — eso se define antes de crear cualquier anuncio",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres que tus cotizaciones **lleguen con esa misma logica**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

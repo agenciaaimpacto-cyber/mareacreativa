@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si **arreglas notebooks y computadores** y sientes que trabajar mas horas no esta resolviendo nada"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No es que te falte esfuerzo.",
+        "**Es que la gente que te necesita no te encuentra.**"
+      ],
+      "sub": "Puedes quedarte hasta tarde reparando equipos y aun asi el problema sigue siendo el mismo al dia siguiente."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Mas horas de taller no traen",
+        "**mas clientes nuevos.**"
+      ],
+      "sub": "Son dos problemas distintos, y uno no se resuelve trabajando mas duro en el otro."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO ENFOCAMOS",
+      "text": "No partimos por hacerte trabajar mas, **partimos por conseguir que te encuentren** las personas que ya necesitan arreglar un equipo",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si el problema no es tu esfuerzo, **puede ser que no te estan viendo**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu taller, no vendiendote nada."
+    }
+  ]
+}
