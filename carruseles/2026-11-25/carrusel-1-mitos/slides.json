@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LO ENTENDEMOS",
+      "text": "Si eres **agente de seguros** y piensas que la publicidad es solo para empresas grandes con mucho presupuesto"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tiene sentido pensarlo asi",
+        "**si lo unico que has visto es publicidad de marcas grandes.**"
+      ],
+      "sub": "Pero ahi no es donde empieza esto para un negocio como el tuyo."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "El punto de partida no es cuanta plata tienes,",
+        "**es cuantos clientes necesitas.**"
+      ],
+      "sub": "Esa pregunta cambia todo lo que viene despues."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "No partimos preguntando tu presupuesto, **partimos preguntando cuantos clientes necesitas** este mes",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "No necesitas ser una gran empresa **para hacer publicidad que funcione**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

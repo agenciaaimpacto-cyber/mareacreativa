@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "COMO TRABAJAMOS",
+      "text": "Si tienes tu **tienda de ropa**, no partimos armandote una campana el primer dia"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Partimos con",
+        "**4 preguntas, no con un presupuesto.**"
+      ],
+      "sub": "Que vendes, cuantos clientes necesitas, cuanto puedes invertir y que tendria que pasar para que valga la pena."
+    },
+    {
+      "type": "stat",
+      "number": "4",
+      "unit": "preguntas",
+      "text": "respondemos **antes de crear cualquier campana**"
+    },
+    {
+      "type": "proof",
+      "tag": "LA DIFERENCIA",
+      "text": "No es solo elegir una foto y subir presupuesto, **es pensar el mensaje y el momento** antes de mostrarlo",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres ver como pensariamos tu campana, **hablemos.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu tienda, no vendiendote nada."
+    }
+  ]
+}

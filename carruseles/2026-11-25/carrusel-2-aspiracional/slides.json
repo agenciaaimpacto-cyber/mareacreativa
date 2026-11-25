@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LA META, NO EL METODO",
+      "text": "Si eres **podologa**, esto no es sobre llenar la agenda los siete dias de la semana"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es sobre tener",
+        "**dos dias completos, todas las semanas.**"
+      ],
+      "sub": "No cientos de pacientes nuevos, los suficientes para que la semana tenga sentido."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Cuando sabes que esos dos dias van a estar llenos,",
+        "**dejas de depender de la suerte del boca a boca.**"
+      ],
+      "sub": "Ya no es esperar a ver que pasa, es poder planificar la semana."
+    },
+    {
+      "type": "proof",
+      "tag": "LA META",
+      "text": "No se trata de crecer sin limite, **se trata de llegar a la agenda que tiene sentido para ti**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si tu meta es llenar esos dias, **hablemos de como llegar ahi**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu consulta, no vendiendote nada."
+    }
+  ]
+}
