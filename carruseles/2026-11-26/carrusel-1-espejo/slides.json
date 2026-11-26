@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LO ENTENDEMOS",
+      "text": "Si eres **nutricionista independiente** y el mes empezo lleno de consultas nuevas pero de la nada se enfrio sin razon clara"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No hiciste nada distinto.",
+        "**Simplemente dejo de llegar gente nueva.**"
+      ],
+      "sub": "Y no tienes forma de saber si el proximo mes va a ser igual o peor."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "El problema no es tu atencion ni tu conocimiento.",
+        "**Es que nadie nuevo te esta encontrando.**"
+      ],
+      "sub": "El boca a boca te trajo esas consultas, pero no es algo que puedas activar cuando lo necesitas."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "No se trata de esperar que se repita solo, **se trata de que la llegada de pacientes nuevos no dependa de la suerte**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres que tu agenda no dependa de que un mes sea bueno por casualidad, **hablemos de tu consulta.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

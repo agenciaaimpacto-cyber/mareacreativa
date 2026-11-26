@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LA META, NO EL METODO",
+      "text": "Si arreglas **notebooks y computadores**, esto no es sobre tener la mesa de trabajo llena de equipos a cada rato"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es sobre tener los equipos justos",
+        "**para no quedarte con una semana vacia.**"
+      ],
+      "sub": "No necesitas decenas de notebooks entrando cada semana. Necesitas los suficientes para que el taller no pare."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Eso se consigue con clientes que llegan",
+        "**de forma mas pareja, no solo cuando se corre la voz.**"
+      ],
+      "sub": "No esperando que alguien se acuerde de recomendarte justo cuando te hace falta."
+    },
+    {
+      "type": "proof",
+      "tag": "CONVERTIMOS TU INVERSION EN OPORTUNIDADES",
+      "text": "No necesitas ser una **gran empresa de servicio tecnico** para tener la semana con trabajo parejo",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres esa continuidad en tu taller de reparaciones",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

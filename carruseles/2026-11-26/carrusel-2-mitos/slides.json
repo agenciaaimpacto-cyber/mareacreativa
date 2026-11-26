@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si eres **gasfiter** y una vez probaste poniendo plata en Facebook pero no te llego ningun cliente nuevo"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tiene sentido que no quieras repetirlo.",
+        "**Perder plata duele, mas cuando no sabes en que se fue.**"
+      ],
+      "sub": "Pero no es lo mismo apretar el boton de promocionar una publicacion que armar una campana de verdad."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Promocionar un post no decide a quien le llega,",
+        "**ni con que mensaje, ni hace seguimiento despues.**"
+      ],
+      "sub": "Ahi es donde entra la estrategia: segmentacion, mensaje correcto y revisar que esta funcionando."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "No se trata de poner plata otra vez de la misma forma, **se trata de hacerlo con estrategia y seguimiento real**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres intentarlo de nuevo pero bien hecho, **hablemos de tu negocio.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}
