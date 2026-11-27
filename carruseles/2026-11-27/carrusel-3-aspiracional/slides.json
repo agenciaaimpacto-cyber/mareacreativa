@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "LA META, NO EL METODO",
+      "text": "Si eres **veterinario con consulta propia**, esto no es sobre llenar la sala de espera todos los dias"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es sobre tener los pacientes justos",
+        "**para vivir bien de tu consulta.**"
+      ],
+      "sub": "Sin depender de que el boca a boca tenga un buen mes."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No necesitas cientos de dueños nuevos cada semana.",
+        "**Necesitas los suficientes para tu propia meta.**"
+      ],
+      "sub": "Esa cifra la define tu negocio, no una formula general."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "No se trata de crecer sin limite, **se trata de llegar a lo que tu consulta necesita**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres poner un numero a esa meta, **hablemos de tu consulta.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "COMO LO EXPLICAMOS",
+      "text": "Si tienes tu **peluqueria o barberia**, esta es la diferencia entre promocionar una publicacion y una campana real"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Promocionar una publicacion es apretar un boton.",
+        "**No tiene objetivo ni segmentacion.**"
+      ],
+      "sub": "Le llega a quien le llega, sin saber si de verdad busca un corte o un color."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Una campana real parte distinto.",
+        "**Define a quien le hablamos, en que momento y con que mensaje.**"
+      ],
+      "sub": "Y se revisa y se ajusta en el camino, no se deja sola."
+    },
+    {
+      "type": "proof",
+      "tag": "COMO TRABAJAMOS",
+      "text": "No armamos un aviso bonito, **armamos una estrategia detras del aviso**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres ver la diferencia en tu propio local, **hablemos.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

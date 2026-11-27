@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE POR QUE LO PIENSAS",
+      "text": "Si tienes tu **taller mecanico** y crees que la publicidad es solo para empresas grandes con mucho presupuesto"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tiene sentido pensarlo asi.",
+        "**Casi toda la publicidad que ves es de marcas grandes.**"
+      ],
+      "sub": "Pero eso no significa que exista un presupuesto minimo para empezar."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "El punto de partida no es cuanta plata tienes.",
+        "**Es cuantos clientes necesitas.**"
+      ],
+      "sub": "Cuantos vehiculos a la semana te hacen sentido, no cuantos quisieras tener."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "Un taller no necesita el presupuesto de una marca grande, **necesita el presupuesto justo para su propia meta**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres saber cual es ese numero para tu taller, **hablemos.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}
