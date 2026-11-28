@@ -1,0 +1,21 @@
+GUION — Depender del boca a boca - agente de seguros
+Formato: voz_en_off | Pilar: espejo | Duracion objetivo: 45-60 segundos
+============================================================
+
+[HOOK — primeros 3 segundos]
+Si eres agente de seguros y dependes 100% de que te recomienden, este es para ti.
+
+[DESARROLLO]
+1. Las recomendaciones te traen clientes, pero no puedes predecir cuando van a llegar.
+2. Un mes tienes cartera nueva y al otro mes no sabes si va a pasar lo mismo.
+3. No es que no hagas bien tu trabajo. Es que nadie nuevo se esta enterando que existes fuera de tu circulo.
+
+[CIERRE / CTA]
+Si quieres dejar de depender solo de que te recomienden, escribenos.
+
+------------------------------------------------------------
+NOTA DE FORMATO:
+Voz en off sobre visuales/texto en pantalla. Cortar de escena/plano cada 2-3 segundos para mantener el ritmo. El hook debe coincidir con el primer corte de imagen, no con un plano largo.
+
+NOTAS DE PRODUCCION:
+Voz en off sobre visuales de oficina o escritorio de trabajo (sin mostrar datos de clientes reales), texto en pantalla reforzando las frases clave. Tono calido, sin tecnicismos.

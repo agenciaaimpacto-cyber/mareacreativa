@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE LA DESCONFIANZA",
+      "text": "Si eres **entrenador personal** y ya probaste poner plata en Facebook y no funciono"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Perder plata y no ver resultado duele.",
+        "**Tiene sentido que te de desconfianza volver a intentarlo.**"
+      ],
+      "sub": "No fue una mala idea invertir en publicidad."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "El problema no fue poner plata.",
+        "**Fue poner plata sin estrategia, sin segmentar a quien le hablas.**"
+      ],
+      "sub": "Apretar un boton de promocionar no es lo mismo que una campana pensada."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "Antes de invertir un peso, definimos **a quien le hablas, con que mensaje y en que momento**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres intentarlo de nuevo pero bien hecho, **hablemos.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

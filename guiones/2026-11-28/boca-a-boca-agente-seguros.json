@@ -1,0 +1,13 @@
+{
+  "formato": "voz_en_off",
+  "pilar": "espejo",
+  "titulo": "Depender del boca a boca - agente de seguros",
+  "hook": "Si eres agente de seguros y dependes 100% de que te recomienden, este es para ti.",
+  "desarrollo": [
+    "Las recomendaciones te traen clientes, pero no puedes predecir cuando van a llegar.",
+    "Un mes tienes cartera nueva y al otro mes no sabes si va a pasar lo mismo.",
+    "No es que no hagas bien tu trabajo. Es que nadie nuevo se esta enterando que existes fuera de tu circulo."
+  ],
+  "cta": "Si quieres dejar de depender solo de que te recomienden, escribenos.",
+  "notas_produccion": "Voz en off sobre visuales de oficina o escritorio de trabajo (sin mostrar datos de clientes reales), texto en pantalla reforzando las frases clave. Tono calido, sin tecnicismos."
+}

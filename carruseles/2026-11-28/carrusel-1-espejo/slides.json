@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SE ENTIENDE ESA SENSACION",
+      "text": "Si eres **profesor particular** y el mes empezo lleno de alumnos nuevos pero de la nada se enfrio sin ninguna razon clara"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No hiciste nada distinto.",
+        "**Simplemente dejaron de llegar.**"
+      ],
+      "sub": "Y te quedas sin saber si el proximo mes va a ser bueno o malo."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No es un problema de esfuerzo.",
+        "**Es un problema de que no te encuentran de forma constante.**"
+      ],
+      "sub": "El boca a boca y las recomendaciones van y vienen solos."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "No se trata de trabajar mas horas, **se trata de que te encuentren todos los meses, no solo algunos**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres dejar de depender de que el mes 'se acuerde' de ti, **hablemos.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}

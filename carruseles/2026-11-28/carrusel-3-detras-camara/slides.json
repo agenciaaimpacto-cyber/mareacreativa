@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "COMO TRABAJAMOS",
+      "text": "Si tienes tu **tienda de ropa**, asi es como pensamos una campana antes de tocar un peso en publicidad"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No partimos armando avisos bonitos.",
+        "**Partimos haciendo 4 preguntas.**"
+      ],
+      "sub": "Que vendes, cuantos clientes necesitas, cuanto puedes invertir y que tendria que pasar para que valga la pena."
+    },
+    {
+      "type": "stat",
+      "number": "4",
+      "unit": "preguntas",
+      "text": "son las que respondemos **antes de crear cualquier campana**"
+    },
+    {
+      "type": "proof",
+      "tag": "ASI LO VEMOS",
+      "text": "No armamos un aviso bonito, **armamos una estrategia detras del aviso**",
+      "source": "Marea Creativa"
+    },
+    {
+      "type": "cta",
+      "text": "Si quieres que pensemos tu campana asi, **hablemos.**",
+      "button": "Escribenos por WhatsApp ->",
+      "sub": "Partimos conversando sobre tu negocio, no vendiendote nada."
+    }
+  ]
+}
